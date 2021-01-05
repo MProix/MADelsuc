@@ -1,0 +1,111 @@
+body{
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    display: flex;
+}
+/*----------------------------------------------MAIN NAVBAR----------------------------------------------*/
+#main_navbar{
+    position: relative;
+    font-size: 13px;
+    background-color: rgb(8, 40, 83);
+    height: 100vh;
+    width: min-content;
+}
+#main_navbar_ul{
+    list-style-type: none;
+    margin: 0px 0px;
+    padding-left: 0px;
+}
+.main_nav_li{
+    min-height: 38px;
+    line-height: 38px;
+    color: white;
+}
+.main_nav_li:hover{
+    background-color: rgb(3, 17, 36);
+    color: rgb(18, 98, 204);
+    cursor: pointer;
+    -moz-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: background-color 300ms ease;
+}
+.mainnav_li_container{
+    padding: 13px 11px 13px 17px;
+    display: flex;
+}
+.main_nav_entry{
+    padding-left: 8px;
+}
+.main_nav_icon{
+    font-size: 23px;
+}
+#search{
+    background-color: rgb(18, 98, 204);
+}
+#btn{
+    display: none;
+    position: absolute;
+    top: 48vh;
+    right: 0px;
+}
+#btn>img{
+    height: 4vh;
+}
+#btn2{
+    display: none;
+    position: absolute;
+    top: 48vh;
+    right: 0px;
+}
+#btn2>img{
+    height: 4vh;
+}
+#main_navbar:hover #btn{
+    display: block;
+    transform: translateX(102%);
+}
+.small:hover .small_nav_entry{
+    display: block !important;
+    -moz-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+.small_nav_entry{
+    width: 0px !important;
+    visibility: hidden;
+    -moz-transition: width 300ms ease;
+    -o-transition: width 300ms ease;
+    transition: width 300ms ease;
+}
+.small_nav_li_container{
+    padding-right: 17px;
+    -moz-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;
+}
+
+/*---------------------------------------------TOP CONTENT----------------------------------------------*/
+#top_content_part{
+    height: 20vh;
+    display: flex;
+    background-color: rgb(18, 98, 204);
+}
+#left_top_content_part{
+    width: 85%;
+    background-color: rgb(8, 40, 83);
+    text-align: right;
+    color: white;
+    padding-right: 2vw;
+}
+#right_top_content_part{
+    width: 15%;
+    height: 100%;
+}
+#right_top_content_part>img{
+    border-radius: 50%;
+    border: 2px solid white;
+    max-height: 16vh;
+    max-width: 80%;
+    display: block;
+    margin: auto;
+}
