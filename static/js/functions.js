@@ -15,3 +15,11 @@ function vwToPx(value){
 function vhToPx(value){
     return (clientH*value)/100;
 };
+
+//--------------Define and actualize age----------------------------------
+function getAge(date) { 
+    var diff = Date.now() - date.getTime();
+    var age = new Date(diff); 
+    return Math.abs(age.getUTCFullYear() - 1970);
+};
+

@@ -6,10 +6,11 @@
     <title></title>
 
     <!-- JAVASCRIPT LINKS -->
+    <script src="./static/js/functions.js"></script>
     <!-- jquery -->
     <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
     <!-- popper -->
-    <!-- <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script> -->
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
 
     <!-- STYLES IMPORTS -->
     <link rel="stylesheet" href="./static/css/main.css">
@@ -20,61 +21,85 @@
     <nav id="main_navbar">    
         <div id="without_btn">  
             <ul id="main_navbar_ul">
-                <li class="main_nav_li" id="search">
-                    <div class="mainnav_li_container"> 
-                    <div class="main_nav_icon">&#128270;</div>
-                    <div class="main_nav_entry">SEARCH</div>
+                <li class="main_nav_li">
+                    <div class="mainnav_li_container">
+                        <a href="index.php">
+                            <div class="main_nav_icon">b</div>
+                            <div class="main_nav_entry">HOME</div>
+                        </a>                    
+                    </div>
+                </li>
+                <li class="main_nav_li">
+                    <div class="mainnav_li_container">
+                        <a href="presentation.php">
+                            <div class="main_nav_icon">a</div>
+                            <div class="main_nav_entry">PRESENTATION</div>
+                        </a>
+                    </div>
+                </li>
+                <li class="main_nav_li">
+                    <div class="mainnav_li_container">
+                        <a href="http://scholar.google.com/citations?sortby=pubdate&hl=en&user=HHoFyUUAAAAJ">
+                            <div class="main_nav_icon">c</div>
+                            <div class="main_nav_entry">PUBLICATIONS</div>
+                        </a>
                     </div>
                 </li>
                 <li class="main_nav_li">
                     <div class="mainnav_li_container"> 
-                        <div class="main_nav_icon">&#127968;</div>
-                        <div class="main_nav_entry">HOME</div>
+                        <a href="programs.php">
+                            <div class="main_nav_icon">d</div>
+                            <div class="main_nav_entry">PROGRAMS</div>
+                        </a>
                     </div>
                 </li>
                 <li class="main_nav_li">
-                    <div class="mainnav_li_container"> 
-                    <div class="main_nav_icon">&#9786;</div>
-                    <div class="main_nav_entry">PRESENTATION</div>
+                    <div class="mainnav_li_container">
+                        <a href="talks.php">
+                            <div class="main_nav_icon">e</div>
+                            <div class="main_nav_entry">TALKS</div>
+                        </a>
                     </div>
                 </li>
                 <li class="main_nav_li">
-                    <div class="mainnav_li_container"> 
-                    <div class="main_nav_icon">&#128214;</div>
-                    <div class="main_nav_entry">PUBLICATIONS</div>
+                    <div class="mainnav_li_container">
+                        <a href="cv.php">
+                            <div class="main_nav_icon">f</div>
+                            <div class="main_nav_entry">CV</div>
+                        </a>
                     </div>
                 </li>
                 <li class="main_nav_li">
-                    <div class="mainnav_li_container"> 
-                    <div class="main_nav_icon">&#128187;</div>
-                    <div class="main_nav_entry">PROGRAMS</div>
+                    <div class="mainnav_li_container">
+                        <a href="jobs.php">
+                            <div class="main_nav_icon">g</div>
+                            <div class="main_nav_entry">JOBS</div>
+                        </a>
                     </div>
                 </li>
                 <li class="main_nav_li">
-                    <div class="mainnav_li_container"> 
-                    <div class="main_nav_icon">&#128265;</div>
-                    <div class="main_nav_entry">TALKS</div>
-                    </div>
-                </li>
-                <li class="main_nav_li">
-                    <div class="mainnav_li_container"> 
-                    <div class="main_nav_icon">&#128196;</div>
-                    <div class="main_nav_entry">CV</div>
-                    </div>
-                </li>
-                <li class="main_nav_li">
-                    <div class="mainnav_li_container"> 
-                    <div class="main_nav_icon">&#128240;</div>
-                    <div class="main_nav_entry">JOBS</div>
-                    </div>
-                </li>
-                <li class="main_nav_li">
-                    <div class="mainnav_li_container"> 
-                    <div class="main_nav_icon">&#128279;</div>
-                    <div class="main_nav_entry">LINKS</div>
+                    <div class="mainnav_li_container">
+                        <a href="links.php">
+                            <div class="main_nav_icon">h</div>
+                            <div class="main_nav_entry">LINKS</div>
+                        </a>
                     </div>
                 </li>
             </ul>
         </div>
-        <div id="btn"><img src="./static/img/hamburger2.svg"></div>
+        <div id="btn"><img src="./static/img/menu2.svg"></div>
     </nav>
+    <div id="main-content">
+        <div id="content">
+            <div id="top_content_part">
+                <div id="left_top_content_part">
+                    <p id="twitter_p"><a href="https://twitter.com/MAD57935854">i</a></p>
+                    <p id="github_p"><a href="#">j</a></p>
+                    <p id="mail_p"><a href="#">k</a></p>
+                    <p id="tel_p
+                    "><a href="#">n</a></p>
+                </div>
+                <div id="right_top_content_part">
+                    <img id="profil_img" src="./static/img/MAD2.JPG" alt="photo"/>
+                </div>
+            </div>
