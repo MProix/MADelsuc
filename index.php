@@ -12,7 +12,7 @@
                 If you find errors, lacking features or if you find this site usefull ; please let me know and drop me a line (delsuc .at. igbmc.fr ).
             </p>
             <p> 
-                You might also want to follow by rants and pontifications on twitter : <a href="https://twitter.com/MAD57935854">@MAD57935854</a>
+                You might also want to follow by rants and pontifications on <a href="https://twitter.com/MAD57935854">Twitter</a>.
             </p>
             <div class="rem">
                 Je prie mes collègues et amis francophones de bien vouloir m'excuser pour ces pages en anglais; mais je n'ai pas eu le temps ni le courage de faire deux versions de ce site; la version anglaise étant malgré tout plus "internationale".<br/>

@@ -24,4 +24,24 @@ $( window ).ready(function() {
         $(".mainnav_li_container").toggleClass("small_nav_li_container");
     });
     $("#age").text((getAge(new Date(1958, 06, 22))));
+    // makes the programs table in the programs page
+    openParseJson(programsList, "programsTable");
+    // define the sort of the programs table
+    $("#sort-select option").click(function(e){
+        $("#sortedTable").html((e.target.text).toLowerCase()+". ");
+        $("#programsTable").html("");
+        var asDes = e.target.value[0]+e.target.value[1];
+        var criterion = ((e.target.text.split(" "))[1]);
+        openParseJson(sortTable(programsList, criterion, asDes),"programsTable"); 
+    });
+    //append page title in top part
+    $("#current_location").html(parseURL(window.location.href, ".php"));
+    // makes the conf table in the talks page
+    openParseJsonConf(conferencesList, "confList");
+    $(".spaghettis").click(function(){
+        location.href = "https://www.delsuc.net/MADelsuc/spaghetti.html"
+    });
+    
+    //open and parse CV file to inject html in cv
+    openParseCVjson(cv,"cv");
 });

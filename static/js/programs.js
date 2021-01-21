@@ -1,4 +1,4 @@
-[
+var programsList = [
 
     {
     "Name" : "PALMA",
@@ -311,5 +311,4 @@
     "Description" : "Implementation of the FORTH programming langugae on the Bruker Aspect architecture. Complete working environment : editor; copmiler, assembler, file system, real time managment. Allows driving the pulse programmer and writing pulse sequences on the WM architecture",
     "Diffusion" : "ABACUS - 30 pages Manual"
     }
-]
-    
+];
