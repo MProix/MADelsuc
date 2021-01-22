@@ -44,4 +44,17 @@ $( window ).ready(function() {
     
     //open and parse CV file to inject html in cv
     openParseCVjson(cv,"cv");
+    //open and parse publis json
+    openParsePublisjson("./static/docs/MAD.bibjson","publis_part");
+    // get variables from php and inject it to cv.php
+    $.getJSON( "variables.php", function( data ) {
+        $("#numberOfCitations").html(data.nbCitations);
+        $("#citationsPerYear").html(data.citePerYear);
+        $("#h_index").html(data.hindex);
+        $("#cite_month_year").html(data.date);
+    });
+    //open and parse best publis json for end of cv*
+    $("#cv").append("<p id='bestPublis'></p>");
+    $("#bestPublis").append("<h1>References</h1>");
+    openParsePublisjson("./static/js/bests.js","bestPublis");
 });

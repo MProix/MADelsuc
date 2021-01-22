@@ -159,3 +159,132 @@ function openParseCVjson(cv, destination){
         $("#cv").append(newPartCV);
       }    
 };
+function openParsePublisjson(url, destination){
+    $.getJSON( url, function( data ) {
+        $.each( data, function( key, val ) {
+            var newPubli = document.createElement("table");
+            newPubli.classList.add("tablePublis");
+            var tRow1 = document.createElement("tr");
+            var title = document.createElement("td");
+            title.classList.add("titlePubli");
+            title.id = val.title;
+            title.innerHTML = val.title;
+            title.colSpan = 3;
+            var listAuth = [];
+            $.each(val.author, function(k,v){
+                var reg=new RegExp("[ -]+", "g");
+                var dropPar ="";
+                var family ="";
+                var given="";
+                if(v.droppingParticle != undefined){
+                    var dropPar = v.droppingParticle;
+                }
+                if(v.family != undefined){
+                    var family = v.family;
+                }  
+                if(v.given != undefined){
+                    if(v.given.indexOf("-") != -1){
+                        given = v.given.split(reg);
+                        var g = "";
+                        for(let i=0; i<given.length;i+=1){
+                            if(i<given.length-1){
+                                g += given[i][0]+"-";
+                            } else{
+                                g += given[i][0]+".";
+                            } 
+                        }
+                        given = g;
+                    } else if(v.given.indexOf(" ") != -1){
+                        given = v.given.split(reg);
+                        var g = "";
+                        for(let i=0; i<given.length;i+=1){
+                            if(i<given.length-1){
+                                g += given[i][0]+". ";
+                            } else{
+                                g += given[i][0]+".";
+                            } 
+                        }
+                        given = g;
+                    } else if(v.given[1]=="."){
+                        given = v.given;
+                    } else{
+                        given = v.given[0]+".";
+                    }
+                }
+                var name = dropPar+" "+family+" "+given;
+                listAuth.push(name);
+            });
+            var tRow2 = document.createElement("tr");
+            var authors = document.createElement("td");
+            authors.classList.add("authorsPubli");
+            authors.innerHTML = listAuth.join(", ");
+            authors.colSpan = 3;
+            var containerTitle = document.createElement("span");
+            containerTitle.classList.add("containerTitlePubli");
+            if(val.containerTitle != undefined){
+                containerTitle.innerHTML = val.containerTitle;
+            } else if(val.page != undefined){
+                containerTitle.innerHTML = "pages "+val.page+". ";
+                if(val.publisher != undefined){
+                    containerTitle.innerHTML = containerTitle.innerHTML +"<span class='nonItalic'>"+val.publisher+"</span>";
+                };
+            };
+            var tRow4 = document.createElement("tr");
+            tRow4.id = "dontcolspan";
+            var tRow4td = document.createElement("td");
+            tRow4td.id = "tRow4td";
+            var year = document.createElement("span");
+            year.classList.add("yearPubli");
+            year.innerHTML = "("+val.issued.dateParts[0][0]+")";
+            var doiLink = document.createElement("a");
+            doiLink.classList.add("linkPubli");
+            doiLink.href = val.URL;
+            doiLink.textContent = val.DOI;
+            var doi = document.createElement("span");
+            tRow1.appendChild(title);
+            newPubli.appendChild(tRow1);
+            tRow2.appendChild(authors);
+            newPubli.appendChild(tRow2);
+            tRow4td.appendChild(year);
+            tRow4td.appendChild(containerTitle);
+            doi.appendChild(doiLink);
+            tRow4td.appendChild(doi);
+            tRow4.appendChild(tRow4td);
+            newPubli.appendChild(tRow4);
+            $("#"+destination).append(newPubli);
+        }); 
+        for(let elt of $(".tablePublis")){
+            for(let e of elt.childNodes){
+                while(e.innerHTML.indexOf("\\[")!= -1){
+                    var rep1 = e.innerHTML.replace("\\[", "[");
+                    var rep2 = rep1.replace("\\]", "]");
+                    e.innerHTML = rep2;
+                }
+                while(e.innerHTML.indexOf("$^{")!= -1){
+                    var rep1 = e.innerHTML.replace("$^{", "<sup>");
+                    var rep2 = rep1.replace("}$", "</sup>");
+                    e.innerHTML = rep2;
+                }
+                while(e.innerHTML.indexOf("$^")!= -1){
+                    var rep1 = e.innerHTML.replace("$^", "<sup>");
+                    var rep2 = rep1.replace("$", "</sup>");
+                    e.innerHTML = rep2;
+                }
+                while(e.innerHTML.indexOf("$\\")!= -1){
+                    if(e.innerHTML.indexOf("gamma") != -1){
+                        var rep1 = e.innerHTML.replace("$\\","");
+                        var rep2 = rep1.replace("$","");
+                        var rep3 = rep2.replace("gamma","𝛄");
+                        e.innerHTML = rep3;
+                    }
+                    if(e.innerHTML.indexOf("alpha") != -1){
+                        var rep1 = e.innerHTML.replace("$\\","");
+                        var rep2 = rep1.replace("$","");
+                        var rep3 = rep2.replace("alpha","α");
+                        e.innerHTML = rep3;
+                    }
+                }                
+            }
+        };
+    });
+};

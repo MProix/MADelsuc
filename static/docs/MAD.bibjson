@@ -1,0 +1,5735 @@
+[
+  {
+    "DOI": "10.1002/cbic.202000601",
+    "URL": "https://doi.org/10.1002%2Fcbic.202000601",
+    "author": [
+      {
+        "droppingParticle": "Jourdain de",
+        "family": "Muizon",
+        "given": "Capucine"
+      },
+      {
+        "family": "Ramanoudjame",
+        "given": "Sridévi M."
+      },
+      {
+        "family": "Esteoulle",
+        "given": "Lucie"
+      },
+      {
+        "family": "Ling",
+        "given": "Claude"
+      },
+      {
+        "family": "Brou",
+        "given": "Germain"
+      },
+      {
+        "family": "Anton",
+        "given": "Nicolas"
+      },
+      {
+        "family": "Vandamme",
+        "given": "Thierry"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Bonnet",
+        "given": "Dominique"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      }
+    ],
+    "containerTitle": "ChemBioChem",
+    "id": "Jourdain_de_Muizon_2020",
+    "issued": {
+      "dateParts": [
+        [
+          2020,
+          11
+        ]
+      ]
+    },
+    "publisher": "Wiley",
+    "title": "Self-organization properties of a GPCR-binding peptide with a fluorinated tail studied by fluorine NMR spectroscopy",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1021/acs.analchem.0c02843",
+    "URL": "https://doi.org/10.1021%2Facs.analchem.0c02843",
+    "author": [
+      {
+        "family": "Halper",
+        "given": "Matthias"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Breuker",
+        "given": "Kathrin"
+      },
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "Maria A."
+      }
+    ],
+    "containerTitle": "Analytical Chemistry",
+    "id": "Halper_2020",
+    "issue": "20",
+    "issued": {
+      "dateParts": [
+        [
+          2020,
+          9
+        ]
+      ]
+    },
+    "page": "13945-13952",
+    "publisher": "American Chemical Society (ACS)",
+    "title": "Narrowband modulation two-dimensional mass spectrometry and label-free relative quantification of histone peptides",
+    "type": "article-journal",
+    "volume": "92"
+  },
+  {
+    "DOI": "10.1002/9781118681121.ch13",
+    "URL": "https://doi.org/10.1002%2F9781118681121.ch13",
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Vitorino",
+        "given": "Marc"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      }
+    ],
+    "id": "Delsuc_2020b",
+    "issued": {
+      "dateParts": [
+        [
+          2020,
+          1
+        ]
+      ]
+    },
+    "page": "295-323",
+    "publisher": "Wiley",
+    "title": "Determination of protein structure and dynamics by NMR",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.5281/zenodo.3904595",
+    "URL": "https://zenodo.org/record/3904595/files/article.pdf",
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "ReScience C",
+    "genre": "Reproduction",
+    "id": "Delsuc:2020",
+    "issue": "1",
+    "issued": {
+      "dateParts": [
+        [
+          2020,
+          6
+        ]
+      ]
+    },
+    "keyword": "NMR, data processing, FORTRAN77",
+    "title": "<span class=\"nocase\">\\[Rp\\] Gifa V.4: A complete package for NMR data set processing</span>",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "DOI": "10.1021/acs.macromol.0c00666",
+    "URL": "https://doi.org/10.1021%2Facs.macromol.0c00666",
+    "author": [
+      {
+        "family": "Laurent",
+        "given": "Eline"
+      },
+      {
+        "family": "Amalian",
+        "given": "Jean-Arthur"
+      },
+      {
+        "family": "Parmentier",
+        "given": "Marie"
+      },
+      {
+        "family": "Oswald",
+        "given": "Laurence"
+      },
+      {
+        "family": "Ouahabi",
+        "given": "Abdelaziz Al"
+      },
+      {
+        "family": "Dufour",
+        "given": "Florent"
+      },
+      {
+        "family": "Launay",
+        "given": "Kevin"
+      },
+      {
+        "family": "Clément",
+        "given": "Jean-Louis"
+      },
+      {
+        "family": "Gigmes",
+        "given": "Didier"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Charles",
+        "given": "Laurence"
+      },
+      {
+        "family": "Lutz",
+        "given": "Jean-François"
+      }
+    ],
+    "containerTitle": "Macromolecules",
+    "id": "Laurent_2020",
+    "issue": "10",
+    "issued": {
+      "dateParts": [
+        [
+          2020,
+          5
+        ]
+      ]
+    },
+    "page": "4022-4029",
+    "publisher": "American Chemical Society (ACS)",
+    "title": "High-capacity digital polymers: Storing images in single molecules",
+    "title-short": "High-capacity digital polymers",
+    "type": "article-journal",
+    "volume": "53"
+  },
+  {
+    "DOI": "10.1007/s13361-019-02308-1",
+    "URL": "https://doi.org/10.1007%2Fs13361-019-02308-1",
+    "author": [
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "Maria A."
+      },
+      {
+        "family": "Kilgour",
+        "given": "David P. A."
+      },
+      {
+        "family": "Lynch",
+        "given": "Alice M."
+      },
+      {
+        "family": "Barrow",
+        "given": "Mark P."
+      },
+      {
+        "family": "Morgan",
+        "given": "Tomos E."
+      },
+      {
+        "family": "Wootton",
+        "given": "Christopher A."
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "O’Connor",
+        "given": "Peter B."
+      }
+    ],
+    "containerTitle": "Journal of The American Society for Mass Spectrometry",
+    "id": "van_Agthoven_2019",
+    "issue": "12",
+    "issued": {
+      "dateParts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "2594-2607",
+    "publisher": "Springer Science; Business Media LLC",
+    "title": "Phase relationships in two-dimensional mass spectrometry",
+    "type": "article-journal",
+    "volume": "30"
+  },
+  {
+    "DOI": "10.1016/j.aca.2019.04.038",
+    "URL": "https://doi.org/10.1016%2Fj.aca.2019.04.038",
+    "author": [
+      {
+        "family": "Ory",
+        "given": "Lucie"
+      },
+      {
+        "family": "Nazih",
+        "given": "El-Hassane"
+      },
+      {
+        "family": "Daoud",
+        "given": "Sahar"
+      },
+      {
+        "family": "Mocquard",
+        "given": "Julia"
+      },
+      {
+        "family": "Bourjot",
+        "given": "Mélanie"
+      },
+      {
+        "family": "Margueritte",
+        "given": "Laure"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Bard",
+        "given": "Jean-Marie"
+      },
+      {
+        "family": "Pouchus",
+        "given": "Yves François"
+      },
+      {
+        "family": "Bertrand",
+        "given": "Samuel"
+      },
+      {
+        "family": "Roullier",
+        "given": "Catherine"
+      }
+    ],
+    "containerTitle": "Analytica Chimica Acta",
+    "id": "Ory_2019",
+    "issued": {
+      "dateParts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "29-42",
+    "publisher": "Elsevier BV",
+    "title": "Targeting bioactive compounds in natural extracts - development of a comprehensive workflow combining chemical and biological data",
+    "type": "article-journal",
+    "volume": "1070"
+  },
+  {
+    "DOI": "10.1039/c8fd00242h",
+    "URL": "https://doi.org/10.1039%2Fc8fd00242h",
+    "author": [
+      {
+        "family": "Margueritte",
+        "given": "Laure"
+      },
+      {
+        "family": "Duciel",
+        "given": "Laura"
+      },
+      {
+        "family": "Bourjot",
+        "given": "Mélanie"
+      },
+      {
+        "family": "Vonthron-Sénécheau",
+        "given": "Catherine"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "Faraday Discussions",
+    "id": "Margueritte_2019",
+    "issue": "12",
+    "issued": {
+      "dateParts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "page": "441-458",
+    "publisher": "Royal Society of Chemistry (RSC)",
+    "title": "Automatised pharmacophoric deconvolution of plant extracts application to cinchona bark crude extract",
+    "type": "article-journal",
+    "volume": "218"
+  },
+  {
+    "DOI": "10.1007/s00249-019-01348-5",
+    "ISSN": "1432-1017",
+    "URL": "https://doi.org/10.1007/s00249-019-01348-5",
+    "author": [
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "Maria A."
+      },
+      {
+        "family": "Lam",
+        "given": "Yuko P. Y."
+      },
+      {
+        "family": "O’Connor",
+        "given": "Peter B."
+      },
+      {
+        "family": "Rolando",
+        "given": "Christian"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "European Biophysics Journal",
+    "id": "vanAgthoven2019",
+    "issued": {
+      "dateParts": [
+        [
+          2019
+        ]
+      ]
+    },
+    "title": "Two-dimensional mass spectrometry: New perspectives for tandem mass spectrometry",
+    "title-short": "Two-dimensional mass spectrometry",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Floris",
+        "given": "Federico"
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Lynch",
+        "given": "Alice"
+      },
+      {
+        "family": "Barrow",
+        "given": "Mark P"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "O’Connor",
+        "given": "Peter B"
+      }
+    ],
+    "containerTitle": "Anal Chem",
+    "id": "Floris:2018TopDown",
+    "issue": "12",
+    "issued": {
+      "dateParts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "7302-7309",
+    "title": "<span class=\"nocase\">Top-Down Deep Sequencing of Ubiquitin using two-dimensional mass spectrometry</span>",
+    "type": "article-journal",
+    "volume": "90"
+  },
+  {
+    "author": [
+      {
+        "family": "Floris",
+        "given": "Federico"
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Lynch",
+        "given": "Alice"
+      },
+      {
+        "family": "Barrow",
+        "given": "Mark P"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "O’Connor",
+        "given": "Peter B"
+      }
+    ],
+    "containerTitle": "J Am Soc Mass Spectrom",
+    "id": "Floris:2018:Deep",
+    "issued": {
+      "dateParts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "1700-1705",
+    "title": "<span class=\"nocase\">Application of Tandem Two-Dimensional Mass Spectrometry for Top-Down Deep Sequencing of Calmodulin</span>",
+    "type": "article-journal",
+    "volume": "29"
+  },
+  {
+    "author": [
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "Maria A"
+      },
+      {
+        "family": "Lynch",
+        "given": "Alice"
+      },
+      {
+        "family": "Morgan",
+        "given": "Tomos"
+      },
+      {
+        "family": "Wootton",
+        "given": "Christopher"
+      },
+      {
+        "family": "Lam",
+        "given": "Yuko"
+      },
+      {
+        "family": "Barrow",
+        "given": "Mark"
+      },
+      {
+        "family": "Marc-André",
+        "given": "Delsuc"
+      },
+      {
+        "family": "O’Connor",
+        "given": "Peter B"
+      }
+    ],
+    "containerTitle": "Anal Chem",
+    "id": "MVA:2018",
+    "issue": "5",
+    "issued": {
+      "dateParts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "3496-3504",
+    "title": "<span class=\"nocase\">Can Two-Dimensional IR-ECD Mass Spectrometry Improve Peptide de Novo Sequencing?</span>",
+    "type": "article-journal",
+    "volume": "90"
+  },
+  {
+    "author": [
+      {
+        "family": "Cherni",
+        "given": "Afef"
+      },
+      {
+        "family": "Chouzenoux",
+        "given": "Émilie"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "ICASSP",
+    "id": "Cherni_ICASSP2018",
+    "issued": {
+      "dateParts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "title": "Fast dictionary-based approach for mass spectrometry data analysis",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Margueritte",
+        "given": "Laure"
+      },
+      {
+        "family": "Markov",
+        "given": "Petar"
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Starck",
+        "given": "Jean-Philippe"
+      },
+      {
+        "family": "Vonthron Sénécheau",
+        "given": "Catherine"
+      },
+      {
+        "family": "Bourjot",
+        "given": "Mélanie"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "Magn Reson Chem",
+    "id": "Margueritte:2018in",
+    "issue": "6",
+    "issued": {
+      "dateParts": [
+        [
+          2018
+        ]
+      ]
+    },
+    "page": "469-479",
+    "title": "<span class=\"nocase\">Automatic differential analysis of NMR experiments in complex samples</span>",
+    "type": "article-journal",
+    "volume": "56"
+  },
+  {
+    "author": [
+      {
+        "family": "Floris",
+        "given": "Federico"
+      },
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "Maria A"
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Wootton",
+        "given": "Christopher A"
+      },
+      {
+        "family": "Lam",
+        "given": "Pui Yiu Yuko"
+      },
+      {
+        "family": "Barrow",
+        "given": "Mark P"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "O’Connor",
+        "given": "Peter B"
+      }
+    ],
+    "containerTitle": "J. Am. Soc. Mass Spectrom.",
+    "id": "Floris:2018kh",
+    "issue": "1",
+    "issued": {
+      "dateParts": [
+        [
+          2018,
+          1
+        ]
+      ]
+    },
+    "page": "207-210",
+    "title": "<span class=\"nocase\">Bottom-Up Two-Dimensional Electron-Capture Dissociation Mass Spectrometry of Calmodulin.</span>",
+    "type": "article-journal",
+    "volume": "29"
+  },
+  {
+    "DOI": "10.1021/acs.analchem.7b02086",
+    "author": [
+      {
+        "family": "Floris",
+        "given": "Federico"
+      },
+      {
+        "family": "Vallotto",
+        "given": "Claudio"
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Lynch",
+        "given": "Alice"
+      },
+      {
+        "family": "Barrow",
+        "given": "Mark P"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "O’Connor",
+        "given": "Peter B"
+      }
+    ],
+    "containerTitle": "Anal Chem",
+    "id": "floris2017polymer",
+    "issued": {
+      "dateParts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "Polymer analysis in the second dimension: Preliminary studies for the characterisation of polymers with 2D ms",
+    "title-short": "Polymer analysis in the second dimension",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1021/acs.analchem.7b01850",
+    "author": [
+      {
+        "family": "Bray",
+        "given": "Fabrice"
+      },
+      {
+        "family": "Bouclon",
+        "given": "Julien"
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Witt",
+        "given": "Matthias"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Rolando",
+        "given": "Christian"
+      }
+    ],
+    "containerTitle": "Anal Chem",
+    "id": "Bray:2017he",
+    "issued": {
+      "dateParts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Nonuniform Sampling Acquisition of Two-Dimensional Fourier Transform Ion Cyclotron Resonance Mass Spectrometry for Increased Mass Resolution of Tandem Mass Spectrometry Precursor Ions.</span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Oppong",
+        "given": "Emmanuel"
+      },
+      {
+        "family": "Stier",
+        "given": "Gunter"
+      },
+      {
+        "family": "Gaal",
+        "given": "Miriam"
+      },
+      {
+        "family": "Seeger",
+        "given": "Rebecca"
+      },
+      {
+        "family": "Stoeck",
+        "given": "Melanie"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Cato",
+        "given": "Andrew C B"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      }
+    ],
+    "containerTitle": "Biomolecules",
+    "id": "Oppong:2017ge",
+    "issue": "2",
+    "issued": {
+      "dateParts": [
+        [
+          2017,
+          6
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">An Amyloidogenic Sequence at the N-Terminus of the Androgen Receptor Impacts Polyglutamine Aggregation.</span>",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "DOI": "10.7717/peerj-cs.142",
+    "ISSN": "2376-5992",
+    "URL": "https://doi.org/10.7717/peerj-cs.142",
+    "author": [
+      {
+        "family": "Rougier",
+        "given": "Nicolas P."
+      },
+      {
+        "family": "Hinsen",
+        "given": "Konrad"
+      },
+      {
+        "family": "Alexandre",
+        "given": "Frédéric"
+      },
+      {
+        "family": "Arildsen",
+        "given": "Thomas"
+      },
+      {
+        "family": "Barba",
+        "given": "Lorena A."
+      },
+      {
+        "family": "Benureau",
+        "given": "Fabien C.Y."
+      },
+      {
+        "family": "Brown",
+        "given": "C. Titus"
+      },
+      {
+        "droppingParticle": "de",
+        "family": "Buyl",
+        "given": "Pierre"
+      },
+      {
+        "family": "Caglayan",
+        "given": "Ozan"
+      },
+      {
+        "family": "Davison",
+        "given": "Andrew P."
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Detorakis",
+        "given": "Georgios"
+      },
+      {
+        "family": "Diem",
+        "given": "Alexandra K."
+      },
+      {
+        "family": "Drix",
+        "given": "Damien"
+      },
+      {
+        "family": "Enel",
+        "given": "Pierre"
+      },
+      {
+        "family": "Girard",
+        "given": "Benoît"
+      },
+      {
+        "family": "Guest",
+        "given": "Olivia"
+      },
+      {
+        "family": "Hall",
+        "given": "Matt G."
+      },
+      {
+        "family": "Henriques",
+        "given": "Rafael N."
+      },
+      {
+        "family": "Hinaut",
+        "given": "Xavier"
+      },
+      {
+        "family": "Jaron",
+        "given": "Kamil S."
+      },
+      {
+        "family": "Khamassi",
+        "given": "Mehdi"
+      },
+      {
+        "family": "Klein",
+        "given": "Almar"
+      },
+      {
+        "family": "Manninen",
+        "given": "Tiina"
+      },
+      {
+        "family": "Marchesi",
+        "given": "Pietro"
+      },
+      {
+        "family": "McGlinn",
+        "given": "Daniel"
+      },
+      {
+        "family": "Metzner",
+        "given": "Christoph"
+      },
+      {
+        "family": "Petchey",
+        "given": "Owen"
+      },
+      {
+        "family": "Plesser",
+        "given": "Hans Ekkehard"
+      },
+      {
+        "family": "Poisot",
+        "given": "Timothée"
+      },
+      {
+        "family": "Ram",
+        "given": "Karthik"
+      },
+      {
+        "family": "Ram",
+        "given": "Yoav"
+      },
+      {
+        "family": "Roesch",
+        "given": "Etienne"
+      },
+      {
+        "family": "Rossant",
+        "given": "Cyrille"
+      },
+      {
+        "family": "Rostami",
+        "given": "Vahid"
+      },
+      {
+        "family": "Shifman",
+        "given": "Aaron"
+      },
+      {
+        "family": "Stachelek",
+        "given": "Joseph"
+      },
+      {
+        "family": "Stimberg",
+        "given": "Marcel"
+      },
+      {
+        "family": "Stollmeier",
+        "given": "Frank"
+      },
+      {
+        "family": "Vaggi",
+        "given": "Federico"
+      },
+      {
+        "family": "Viejo",
+        "given": "Guillaume"
+      },
+      {
+        "family": "Vitay",
+        "given": "Julien"
+      },
+      {
+        "family": "Vostinar",
+        "given": "Anya E."
+      },
+      {
+        "family": "Yurchak",
+        "given": "Roman"
+      },
+      {
+        "family": "Zito",
+        "given": "Tiziano"
+      }
+    ],
+    "containerTitle": "PeerJ Computer Science",
+    "id": "peerj-cs.142",
+    "issued": {
+      "dateParts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "keyword": "Computational science; Open science; Publication; Reproducible; Replicable; Sustainable; GitHub; Open peer-review",
+    "page": "e142",
+    "title": "Sustainable computational science: The rescience initiative",
+    "title-short": "Sustainable computational science",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Cherni",
+        "given": "Afef"
+      },
+      {
+        "family": "Chouzenoux",
+        "given": "Emilie"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "Analyst",
+    "id": "Cherni:2017PALMA",
+    "issue": "5",
+    "issued": {
+      "dateParts": [
+        [
+          2017
+        ]
+      ]
+    },
+    "page": "772-779",
+    "title": "<span class=\"nocase\">PALMA, an improved algorithm for DOSY signal processing.</span>",
+    "type": "article-journal",
+    "volume": "142"
+  },
+  {
+    "author": [
+      {
+        "family": "Denis-Quanquin",
+        "given": "Sandrine"
+      },
+      {
+        "family": "Riobé",
+        "given": "François"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Maurya",
+        "given": "Olivier"
+      },
+      {
+        "family": "Giraud",
+        "given": "Olivier"
+      }
+    ],
+    "containerTitle": "Chem. Eur. J.",
+    "id": "DenisQuanquin:2016",
+    "issued": {
+      "dateParts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Paramagnetic DOSY: an Accurate Tool for the Analysis of the Supramolecular interactions between Lanthanide Complexes and Proteins.</span>",
+    "type": "article-journal",
+    "volume": "accepted"
+  },
+  {
+    "author": [
+      {
+        "family": "Cherni",
+        "given": "Afef"
+      },
+      {
+        "family": "Chouzenoux",
+        "given": "Émilie"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "Proc. 8th int. Symp. Signal, image, video and commun.",
+    "id": "CherniISIVC2016",
+    "issued": {
+      "dateParts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "x-x+6",
+    "title": "<span class=\"nocase\">Proximity for a class of hybrid sparsity + entopy prior. Application to DOSY NMR signal reconstruction.</span>",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Asencio-Hernández",
+        "given": "Julia"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "PLoS ONE",
+    "id": "Asencio:2016WL",
+    "issue": "9",
+    "issued": {
+      "dateParts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "e0161948",
+    "title": "<span class=\"nocase\">NMR WaterLOGSY Reveals Weak Binding of Bisphenol A with Amyloid Fibers of a Conserved 11 Residue Peptide from Androgen Receptor.</span>",
+    "type": "article-journal",
+    "volume": "11"
+  },
+  {
+    "author": [
+      {
+        "family": "Floris",
+        "given": "Federico"
+      },
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "M A"
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Soulby",
+        "given": "Andrew"
+      },
+      {
+        "family": "Wootton",
+        "given": "Christopher A"
+      },
+      {
+        "family": "Lam",
+        "given": "Pui Yiu"
+      },
+      {
+        "family": "Barrow",
+        "given": "Mark P"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "O’connor",
+        "given": "Peter B"
+      }
+    ],
+    "containerTitle": "J Am Soc Mass Spectrom",
+    "id": "Floris:2016tz",
+    "issued": {
+      "dateParts": [
+        [
+          2016,
+          6
+        ]
+      ]
+    },
+    "page": "1-26",
+    "title": "<span class=\"nocase\">2D FT-ICR MS of Calmodulin: a top-down and bottom-up approach </span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "M A"
+      },
+      {
+        "family": "Wootton",
+        "given": "C A"
+      },
+      {
+        "family": "Chiron",
+        "given": "L"
+      },
+      {
+        "family": "Coutouly",
+        "given": "M A"
+      },
+      {
+        "family": "Soulby",
+        "given": "Andrew"
+      },
+      {
+        "family": "Wei",
+        "given": "Juan"
+      },
+      {
+        "family": "Barrow",
+        "given": "Mark P"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Rolando",
+        "given": "Christian"
+      },
+      {
+        "family": "O’Connor",
+        "given": "Peter B"
+      }
+    ],
+    "containerTitle": "Analytical …",
+    "id": "vanAgthoven:2016kr",
+    "issue": "8",
+    "issued": {
+      "dateParts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "4409-4417",
+    "title": "<span class=\"nocase\">Two-Dimensional Mass Spectrometry for Proteomics, a Comparative Study with Cytochrome c</span>",
+    "type": "article-journal",
+    "volume": "88"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      }
+    ],
+    "containerTitle": "Biophys Chem",
+    "id": "Delsuc:2016jh",
+    "issue": "C",
+    "issued": {
+      "dateParts": [
+        [
+          2016,
+          3
+        ]
+      ]
+    },
+    "page": "1",
+    "title": "<span class=\"nocase\">Editorial for Special Issue on Chemical Complexity and Biology</span>",
+    "type": "article-journal",
+    "volume": "210"
+  },
+  {
+    "DOI": "10.1039/C6SC01974A",
+    "author": [
+      {
+        "family": "Maugeri",
+        "given": "Leonardo"
+      },
+      {
+        "family": "Asencio-Hernández",
+        "given": "Julia"
+      },
+      {
+        "family": "Lébl",
+        "given": "Tomáš"
+      },
+      {
+        "family": "Cordes",
+        "given": "David B"
+      },
+      {
+        "family": "Slawin",
+        "given": "Alexandra M Z"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Philp",
+        "given": "Douglas"
+      }
+    ],
+    "containerTitle": "Chem. Sci.",
+    "id": "Maugeri:2016db",
+    "issued": {
+      "dateParts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "title": "<span class=\"nocase\">Neutral iodotriazoles as scaffolds for stable halogen-bonded assemblies in solution</span>",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Viéville",
+        "given": "J M P"
+      },
+      {
+        "family": "Barluenga",
+        "given": "S"
+      },
+      {
+        "family": "Winssinger",
+        "given": "N"
+      },
+      {
+        "family": "Delsuc",
+        "given": "M A"
+      }
+    ],
+    "containerTitle": "Biophys Chem",
+    "id": "Vieville:2016jt",
+    "issued": {
+      "dateParts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "9-13",
+    "title": "<span class=\"nocase\">Duplex formation and secondary structure of $\\gamma$-PNA observed by NMR and CD.</span>",
+    "type": "article-journal",
+    "volume": "210"
+  },
+  {
+    "author": [
+      {
+        "family": "Simon",
+        "given": "Hayley"
+      },
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "Maria"
+      },
+      {
+        "family": "Lam",
+        "given": "Pui Yiu"
+      },
+      {
+        "family": "Floris",
+        "given": "Federico"
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Rolando",
+        "given": "Christian"
+      },
+      {
+        "family": "Barrow",
+        "given": "Mark"
+      },
+      {
+        "family": "O’ Connor",
+        "given": "Peter"
+      }
+    ],
+    "containerTitle": "Analyst",
+    "id": "Simon:2016by",
+    "issue": "1",
+    "issued": {
+      "dateParts": [
+        [
+          2016
+        ]
+      ]
+    },
+    "page": "157-165",
+    "title": "Uncoiling Collagen: A Multidimensional Mass Spectrometry Study",
+    "type": "article-journal",
+    "volume": "141"
+  },
+  {
+    "author": [
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "Maria A"
+      },
+      {
+        "family": "Barrow",
+        "given": "Mark P"
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Coutouly",
+        "given": "Marie-Aude"
+      },
+      {
+        "family": "Kilgour",
+        "given": "David"
+      },
+      {
+        "family": "Wootton",
+        "given": "Christopher A"
+      },
+      {
+        "family": "Wei",
+        "given": "Juan"
+      },
+      {
+        "family": "Soulby",
+        "given": "Andrew"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Rolando",
+        "given": "Christian"
+      },
+      {
+        "family": "O’Connor",
+        "given": "Peter B"
+      }
+    ],
+    "containerTitle": "Journal of the American Society for Mass Spectrometry",
+    "id": "vanAgthoven:2015gs",
+    "issue": "12",
+    "issued": {
+      "dateParts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "2105-2114",
+    "title": "<span class=\"nocase\">Differentiating Fragmentation Pathways of Cholesterol by Two-Dimensional Fourier Transform Ion Cyclotron Resonance Mass Spectrometry.</span>",
+    "type": "article-journal",
+    "volume": "26"
+  },
+  {
+    "author": [
+      {
+        "family": "Oikonomou",
+        "given": "Maria"
+      },
+      {
+        "family": "Asencio-Hernández",
+        "given": "Julia"
+      },
+      {
+        "family": "Velders",
+        "given": "Aldrik H"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "J Magn Reson",
+    "id": "Oikonomou:2015kl",
+    "issued": {
+      "dateParts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "12-16",
+    "title": "<span class=\"nocase\">Accurate DOSY measure for out-of-equilibrium systems using permutated DOSY (p-DOSY).</span>",
+    "type": "article-journal",
+    "volume": "258"
+  },
+  {
+    "author": [
+      {
+        "family": "Assemat",
+        "given": "O"
+      },
+      {
+        "family": "Antoine",
+        "given": "M"
+      },
+      {
+        "family": "Fourquez",
+        "given": "J M"
+      },
+      {
+        "family": "Wierzbicki",
+        "given": "M"
+      },
+      {
+        "family": "Charton",
+        "given": "Y"
+      },
+      {
+        "family": "Hennig",
+        "given": "P"
+      },
+      {
+        "family": "Perron-Sierra",
+        "given": "F"
+      },
+      {
+        "family": "Ferry",
+        "given": "G"
+      },
+      {
+        "family": "Boutin",
+        "given": "J A"
+      },
+      {
+        "family": "Delsuc",
+        "given": "M A"
+      }
+    ],
+    "containerTitle": "Anal Biochem",
+    "id": "assemat:2015bp",
+    "issue": "C",
+    "issued": {
+      "dateParts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "62-68",
+    "title": "<span class=\"nocase\">$^{19}$F nuclear magnetic resonance screening of glucokinase activators</span>",
+    "type": "article-journal",
+    "volume": "477"
+  },
+  {
+    "author": [
+      {
+        "family": "Köhler",
+        "given": "Christian"
+      },
+      {
+        "family": "Recht",
+        "given": "Raphaël"
+      },
+      {
+        "family": "Quinternet",
+        "given": "Marc"
+      },
+      {
+        "droppingParticle": "de",
+        "family": "Lamotte",
+        "given": "Frederic"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      }
+    ],
+    "containerTitle": "Methods Mol Biol",
+    "id": "Koehler:tz",
+    "issued": {
+      "dateParts": [
+        [
+          2015
+        ]
+      ]
+    },
+    "page": "279-296",
+    "title": "<span class=\"nocase\">Accurate protein-peptide titration experiments by nuclear magnetic resonance using low-volume samples.</span>",
+    "type": "article-journal",
+    "volume": "1286"
+  },
+  {
+    "author": [
+      {
+        "family": "Asencio-Hernández",
+        "given": "Julia"
+      },
+      {
+        "family": "Ruhlmann",
+        "given": "Christine"
+      },
+      {
+        "family": "McEwen",
+        "given": "Alastair"
+      },
+      {
+        "family": "Eberling",
+        "given": "Pascal"
+      },
+      {
+        "family": "Nominé",
+        "given": "Yves"
+      },
+      {
+        "family": "Céraline",
+        "given": "Jocelyn"
+      },
+      {
+        "family": "Starck",
+        "given": "Jean-Philippe"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "ChemBioChem",
+    "id": "AsencioHernandez:2014fz",
+    "issue": "16",
+    "issued": {
+      "dateParts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "2370-2373",
+    "title": "<span class=\"nocase\">Reversible Amyloid Fiber Formation in the N Terminus of Androgen Receptor.</span>",
+    "type": "article-journal",
+    "volume": "15"
+  },
+  {
+    "author": [
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "M A"
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Coutouly",
+        "given": "Marie-Aude"
+      },
+      {
+        "family": "Sehgal",
+        "given": "Akansha Ashvani"
+      },
+      {
+        "family": "Pelupessy",
+        "given": "Philippe"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Rolando",
+        "given": "Christian"
+      }
+    ],
+    "containerTitle": "Int J Mass Spec",
+    "id": "vanAgthoven:2014ti",
+    "issued": {
+      "dateParts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "114-124",
+    "title": "<span class=\"nocase\">Optimization of the discrete pulse sequence for two-dimensional FT-ICR mass spectrometry using infrared multiphoton dissociation</span>",
+    "type": "article-journal",
+    "volume": "370"
+  },
+  {
+    "author": [
+      {
+        "family": "Martinez-Zapien",
+        "given": "Denise"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Travé",
+        "given": "Gilles"
+      },
+      {
+        "family": "Lutzing",
+        "given": "Régis"
+      },
+      {
+        "family": "Rochette-Egly",
+        "given": "Cécile"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      }
+    ],
+    "containerTitle": "Protein Expr Purif",
+    "id": "MartinezZapien:2013ip",
+    "issued": {
+      "dateParts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "113-120",
+    "title": "<span class=\"nocase\">Production and characterization of a retinoic acid receptor RAR$\\gamma$ construction encompassing the DNA binding domain and the disordered N-terminal proline rich domain.</span>",
+    "type": "article-journal",
+    "volume": "95"
+  },
+  {
+    "author": [
+      {
+        "family": "Viéville",
+        "given": "J M P"
+      },
+      {
+        "family": "Charbonnier",
+        "given": "S"
+      },
+      {
+        "family": "Eberling",
+        "given": "P"
+      },
+      {
+        "family": "Starck",
+        "given": "J-P"
+      },
+      {
+        "family": "Delsuc",
+        "given": "M A"
+      }
+    ],
+    "containerTitle": "J Pharm Biomed Anal",
+    "id": "Vieville:2014es",
+    "issued": {
+      "dateParts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "18-23",
+    "title": "<span class=\"nocase\">A new NMR technique to probe protein-ligand interaction.</span>",
+    "type": "article-journal",
+    "volume": "89"
+  },
+  {
+    "author": [
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "Maria A"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      },
+      {
+        "family": "Rolando",
+        "given": "Christian"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "Proc Natl Acad Sci USA",
+    "id": "Chiron:2014hf",
+    "issue": "4",
+    "issued": {
+      "dateParts": [
+        [
+          2014
+        ]
+      ]
+    },
+    "page": "1385-1390",
+    "title": "<span class=\"nocase\">Efficient denoising algorithms for large experimental datasets and their applications in Fourier transform ion cyclotron resonance mass spectrometry.</span>",
+    "type": "article-journal",
+    "volume": "111"
+  },
+  {
+    "author": [
+      {
+        "family": "Quinternet",
+        "given": "Marc"
+      },
+      {
+        "family": "Starck",
+        "given": "J-P"
+      },
+      {
+        "family": "Delsuc",
+        "given": "M A"
+      },
+      {
+        "family": "Kieffer",
+        "given": "B"
+      }
+    ],
+    "containerTitle": "J Pharma Bio Anal",
+    "id": "Quinternet:2013uq",
+    "issued": {
+      "dateParts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "252-254",
+    "title": "<span class=\"nocase\">Heteronuclear NMR provides an accurate assessment of therapeutic insulin’s quality</span>",
+    "type": "article-journal",
+    "volume": "78-79"
+  },
+  {
+    "author": [
+      {
+        "family": "Agthoven",
+        "given": "Maria A"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Bodenhausen",
+        "given": "Geoffrey"
+      },
+      {
+        "family": "Rolando",
+        "given": "Christian"
+      }
+    ],
+    "containerTitle": "Anal Bioanal Chem",
+    "id": "Agthoven:2012cx",
+    "issued": {
+      "dateParts": [
+        [
+          2013
+        ]
+      ]
+    },
+    "page": "51-61",
+    "title": "<span class=\"nocase\">Towards analytically useful two-dimensional Fourier transform ion cyclotron resonance mass spectrometry</span>",
+    "type": "article-journal",
+    "volume": "405"
+  },
+  {
+    "author": [
+      {
+        "family": "Quinternet",
+        "given": "Marc"
+      },
+      {
+        "family": "Starck",
+        "given": "Jean-Philippe"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      }
+    ],
+    "containerTitle": "Chemistry",
+    "id": "Quinternet:2011vo",
+    "issue": "13",
+    "issued": {
+      "dateParts": [
+        [
+          2012,
+          3
+        ]
+      ]
+    },
+    "page": "3969-3974",
+    "title": "<span class=\"nocase\">Unraveling complex small-molecule binding mechanisms by using simple NMR spectroscopy.</span>",
+    "type": "article-journal",
+    "volume": "18"
+  },
+  {
+    "author": [
+      {
+        "family": "Sinnaeve",
+        "given": "Davy"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "MArtins",
+        "given": "JC"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      }
+    ],
+    "containerTitle": "Chemical Science",
+    "id": "SINNAEVE:2012uu",
+    "issued": {
+      "dateParts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "1284-1292",
+    "title": "<span class=\"nocase\">Insight into peptide self-assembly from anisotropic rotational diffusion derived from $^{13}$C NMR relaxation</span>",
+    "type": "article-journal",
+    "volume": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Sinnaeve",
+        "given": "Davy"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Martins",
+        "given": "José"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      }
+    ],
+    "containerTitle": "Prolines & co.: from synthesis to biological activities",
+    "id": "sinnaeve2012self",
+    "issued": {
+      "dateParts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "P17-P17",
+    "title": "Self-assembly studied by nmr heteronuclear relaxation measurements and the effects of population averaging",
+    "type": "paper-conference"
+  },
+  {
+    "author": [
+      {
+        "family": "Tanty",
+        "given": "Matthieu"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "chapter-number": "X",
+    "containerTitle": "Proline: Biosynthesis, regulation and health benefits",
+    "id": "Tanty:2012p12761",
+    "issued": {
+      "dateParts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "X",
+    "publisher": "Nova Publisher",
+    "publisher-place": "Hauppauge, NY",
+    "title": "BIOPHYSICAL studies of polyproline peptides",
+    "type": "chapter"
+  },
+  {
+    "DOI": "10.1021/ac3004874",
+    "PMID": "22762261",
+    "abstract": "2D FT-ICR MS allows the correlation between precursor and fragment ions by modulating ion cyclotron radii for fragmentation modes with radius-dependent efficiency in the ICR cell without the need for prior ion isolation. This technique has been successfully applied to ion-molecule reactions, Collision-induced dissociation and infrared multiphoton dissociation. In this study, we used electron capture dissociation for 2D FT-ICR MS for the first time, and we recorded two-dimensional mass spectra of peptides and a mixture of glycopeptides that showed fragments that are characteristic of ECD for each of the precursor ions in the sample. We compare the sequence coverage obtained with 2D ECD FT-ICR MS with the sequence coverage obtained with ECD MS/MS and compare the sensitivities of both techniques. We demonstrate how 2D ECD FT-ICR MS can be implemented to identify peptides and glycopeptides for proteomics analysis.",
+    "author": [
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "Maria A"
+      },
+      {
+        "family": "Chiron",
+        "given": "Lionel"
+      },
+      {
+        "family": "Coutouly",
+        "given": "Marie-Aude"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Rolando",
+        "given": "Christian"
+      }
+    ],
+    "containerTitle": "Anal Chem",
+    "id": "vanAgthoven:2012p12353",
+    "issue": "13",
+    "issued": {
+      "dateParts": [
+        [
+          2012
+        ]
+      ]
+    },
+    "page": "5589-95",
+    "title": "Two-dimensional ecd ft-icr mass spectrometry of peptides and glycopeptides",
+    "type": "article-journal",
+    "volume": "84"
+  },
+  {
+    "PMID": "1111.5586v1",
+    "URL": "http://arxiv.org/abs/1111.5586v1",
+    "author": [
+      {
+        "family": "Tanty",
+        "given": "Matthieu"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "arXiv",
+    "id": "Tanty:2011p11479",
+    "issued": {
+      "dateParts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "keyword": "q-bio.QM; q-bio.BM",
+    "note": "7 pages, 3 figures, 3 tables",
+    "title": "RamaDA: Complete and automated conformational overview of proteins",
+    "title-short": "RamaDA",
+    "type": "article-journal",
+    "volume": "q-bio.BM"
+  },
+  {
+    "author": [
+      {
+        "family": "Coutouly",
+        "given": "Marie-Aude"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "NMR in Food",
+    "id": "Coutouly:2011p11048",
+    "issued": {
+      "dateParts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "1-7",
+    "title": "ADVANCED processing in nmr : FOURIER & laplace transforms, modern software environment & data management",
+    "title-short": "ADVANCED processing in nmr",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1016/j.ijms.2010.10.034",
+    "URL": "http://dx.doi.org/10.1016/j.ijms.2010.10.034",
+    "abstract": "International Journal of Mass Spectrometry. 10.1016/j.ijms.2010.10.034",
+    "author": [
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "Maria A"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Rolando",
+        "given": "Christian"
+      }
+    ],
+    "containerTitle": "International Journal of Mass Spectrometry",
+    "id": "Agthoven:2011p8808",
+    "issued": {
+      "dateParts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "keyword": "IRMPD; Pulse sequence; Double-frequency; FTMS; FT-ICR; 2-Dimensional",
+    "page": "196-203",
+    "title": "Two-dimensional ft-icr/ms with irmpd as fragmentation mode",
+    "type": "article-journal",
+    "volume": "306"
+  },
+  {
+    "author": [
+      {
+        "family": "Viéville",
+        "given": "Justine"
+      },
+      {
+        "family": "Tanty",
+        "given": "Matthieu"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "J Magn Reson",
+    "id": "Vieville:2011p10032",
+    "issued": {
+      "dateParts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "169-173",
+    "title": "Polydispersity index of polymers revealed by dosy nmr.",
+    "type": "article-journal",
+    "volume": "212"
+  },
+  {
+    "author": [
+      {
+        "droppingParticle": "van",
+        "family": "Agthoven",
+        "given": "Maria A"
+      },
+      {
+        "family": "Coutouly",
+        "given": "Marie-Aude"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Rolando",
+        "given": "Christian"
+      }
+    ],
+    "containerTitle": "Rapid Commun Mass Spectrom",
+    "id": "Agthoven:2011p9369",
+    "issued": {
+      "dateParts": [
+        [
+          2011
+        ]
+      ]
+    },
+    "page": "1609-1616",
+    "title": "2D fticr mass spectrometry: Reduction of scintillation noise using cadzow data processing",
+    "title-short": "2D fticr mass spectrometry",
+    "type": "article-journal",
+    "volume": "25"
+  },
+  {
+    "author": [
+      {
+        "family": "assemat",
+        "given": "O"
+      },
+      {
+        "family": "Coutouly",
+        "given": "Marie-Aude"
+      },
+      {
+        "family": "hajjar",
+        "given": "Redouane"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "Cr Chim",
+    "id": "assemat:2010p6194",
+    "issued": {
+      "dateParts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "page": "412-415",
+    "title": "Validation of molecular mass measurements by means of diffusion-ordered nmr spectroscopy; application to oligosaccharides.",
+    "type": "article-journal",
+    "volume": "13"
+  },
+  {
+    "DOI": "10.1096/fj.10-160572",
+    "PMID": "20634350",
+    "URL": "http://www.fasebj.org/cgi/rapidpdf/fj.10-160572v2",
+    "abstract": "The transcriptional activity of nuclear retinoic acid receptors (RARs) relies on the association/dissociation of coregulators at the ligand-binding domain. However, we determined that the N-terminal domain (NTD) also plays a role through its phosphorylation, and we isolated vinexinbeta, a cytoskeleton protein with three SH3 domains, as a new partner of the RARgamma NTD. Here we deciphered the mechanism of the interaction and its role in RARgamma-mediated transcription. By combining molecular and biophysical (surface plasmon resonance, NMR, and fluorescence resonance energy transfer) approaches, we demonstrated that the third SH3 domain of vinexinbeta interacts with a proline-rich domain (PRD) located in RARgamma NTD and that phosphorylation at a serine located in the PRD abrogates the interaction. The affinity of the interaction was also evaluated. In vivo, vinexinbeta represses RARgamma-mediated transcription and we dissected the underlying mechanism in chromatin immunoprecipitation experiments performed with F9 cells expressing RARgamma wild type or mutated at the phosphorylation site. In the absence of retinoic acid (RA), vinexinbeta does not occupy RARgamma target gene promoters and sequesters nonphosphorylated RARgamma out of promoters. In response to RA, RARgamma becomes phosphorylated and dissociates from vinexinbeta. This separation allows RARgamma to occupy promoters. This is the first report of an RAR corepressor association/dissociation out of promoters and regulated by phosphorylation.-Lalevée, S., Bour, G., Quinternet, M., Samarut, E., Kessler, P., Vitorino, M., Bruck, N., Delsuc, M.-A., Vonesch, J.-L., Kieffer, B., Rochette-Egly, C. Vinexinbeta, an atypical \"sensor\" of retinoic acid receptor gamma signaling: union and sequestration, separation, and phosphorylation.",
+    "author": [
+      {
+        "family": "Lalevée",
+        "given": "Sébastien"
+      },
+      {
+        "family": "Bour",
+        "given": "Gaétan"
+      },
+      {
+        "family": "Quinternet",
+        "given": "Marc"
+      },
+      {
+        "family": "Samarut",
+        "given": "Eric"
+      },
+      {
+        "family": "Kessler",
+        "given": "Pascal"
+      },
+      {
+        "family": "Vitorino",
+        "given": "Marc"
+      },
+      {
+        "family": "Bruck",
+        "given": "Nathalie"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Vonesch",
+        "given": "Jean-Luc"
+      },
+      {
+        "family": "Kieffer",
+        "given": "Bruno"
+      },
+      {
+        "family": "Rochette-Egly",
+        "given": "Cécile"
+      }
+    ],
+    "containerTitle": "The FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+    "id": "Lalevee:2010p7757",
+    "issued": {
+      "dateParts": [
+        [
+          2010
+        ]
+      ]
+    },
+    "title": "Vinexinbeta, an atypical \"sensor\" of retinoic acid receptor <span class=\"nocase\">gamma</span> signaling: Union and sequestration, separation, and phosphorylation",
+    "title-short": "Vinexinbeta, an atypical \"sensor\" of retinoic acid receptor <span class=\"nocase\">gamma</span> signaling",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1021/ja9052619",
+    "PMID": "19904936",
+    "abstract": "The Stokes-Einstein expression of the diffusion coefficient as a function of the hydrodynamic radius of the diffusing object does not explicitly carry the mass dependency of the object. It is possible to correlate the translational self-diffusion coefficients D with the molecular weight M for an ensemble of cyclic or hollow clusters ranging from about 200 to 30,000 g x mol(-1). From this correlation, the mass of a cluster can be deduced from its diffusion coefficient. Consistency of diffusion as a power law of mass and Stokes-Einstein formulation is completely fulfilled with the selected compounds of this contribution.",
+    "author": [
+      {
+        "family": "Floquet",
+        "given": "Sébastien"
+      },
+      {
+        "family": "Brun",
+        "given": "Sébastien"
+      },
+      {
+        "family": "Lemonnier",
+        "given": "Jean-François"
+      },
+      {
+        "family": "Henry",
+        "given": "Marc"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Prigent",
+        "given": "Yann"
+      },
+      {
+        "family": "Cadot",
+        "given": "Emmanuel"
+      },
+      {
+        "family": "Taulelle",
+        "given": "Francis"
+      }
+    ],
+    "containerTitle": "J Am Chem Soc",
+    "id": "Floquet:2009p6301",
+    "issue": "47",
+    "issued": {
+      "dateParts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "17254-9",
+    "title": "Molecular weights of cyclic and hollow clusters measured by dosy nmr spectroscopy",
+    "type": "article-journal",
+    "volume": "131"
+  },
+  {
+    "URL": "http://linkinghub.elsevier.com/retrieve/pii/S0731708508005967",
+    "abstract": "doi: / . . . How to Cite or Link Using DOI (Opens New Window). Copyright © 2008 Elsevier BV All rights reserved.",
+    "author": [
+      {
+        "family": "Balayssac",
+        "given": "S"
+      },
+      {
+        "family": "Trefi",
+        "given": "S"
+      },
+      {
+        "family": "Gilard",
+        "given": "V"
+      },
+      {
+        "family": "Malet-Martino",
+        "given": "M"
+      },
+      {
+        "family": "Martino",
+        "given": "Robert"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "Journal of Pharmaceutical and Biomedical Analysis",
+    "id": "Balayssac:2009p602",
+    "issued": {
+      "dateParts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "602-612",
+    "title": "2D and 3D DOSY $^1$H NMR, a useful tool for analysis of complex mixtures: Application to herbal drugs or dietary supplements for erectile dysfunction.",
+    "title-short": "2D and 3D DOSY $^1$H NMR, a useful tool for analysis of complex mixtures",
+    "type": "article-journal",
+    "volume": "50"
+  },
+  {
+    "DOI": "10.1016/j.coph.2009.06.008",
+    "URL": "http://dx.doi.org/10.1016/j.coph.2009.06.008",
+    "author": [
+      {
+        "family": "Renaud",
+        "given": "Jean-Paul"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-AndrÃ©"
+      }
+    ],
+    "containerTitle": "Current Opinion in Pharmacology",
+    "id": "Renaud:2009p5369",
+    "issued": {
+      "dateParts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "1-7",
+    "title": "Biophysical techniques for ligand screening and drug design",
+    "type": "article-journal"
+  },
+  {
+    "DOI": "10.1021/jp8094424",
+    "PMID": "19173563",
+    "URL": "http://pubs.acs.org/doi/abs/10.1021/jp8094424",
+    "author": [
+      {
+        "family": "Augé",
+        "given": "S"
+      },
+      {
+        "family": "Schmit",
+        "given": "P"
+      },
+      {
+        "family": "Crutchfield",
+        "given": "C"
+      },
+      {
+        "family": "Islam",
+        "given": "M"
+      },
+      {
+        "family": "Harris",
+        "given": "D"
+      },
+      {
+        "family": "Durand",
+        "given": "E"
+      },
+      {
+        "family": "Clemancey",
+        "given": "M"
+      },
+      {
+        "family": "Quoineaud",
+        "given": "A"
+      },
+      {
+        "family": "Lancelin",
+        "given": "J"
+      },
+      {
+        "family": "Prigent",
+        "given": "Y"
+      },
+      {
+        "family": "Taulelle",
+        "given": "F"
+      },
+      {
+        "family": "Delsuc",
+        "given": "M"
+      }
+    ],
+    "containerTitle": "The journal of physical chemistry B",
+    "id": "Auge:2009p3650",
+    "issue": "7",
+    "issued": {
+      "dateParts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "1914-1918",
+    "title": "NMR measure of translational diffusion and fractal dimension. Application to molecular mass measurement",
+    "type": "article-journal",
+    "volume": "113"
+  },
+  {
+    "DOI": "10.1002/bip.21221",
+    "author": [
+      {
+        "family": "Pascal",
+        "given": "Christine"
+      },
+      {
+        "family": "Paté",
+        "given": "Franck"
+      },
+      {
+        "family": "Cheynier",
+        "given": "Véronique"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "Biopolymers",
+    "id": "Pascal:2009p5360",
+    "issue": "9",
+    "issued": {
+      "dateParts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "745-756",
+    "title": "Study of the interactions between a proline-rich protein and a flavan-3-ol by NMR: Residual structures in the natively unfolded protein provides anchorage points for the ligands",
+    "title-short": "Study of the interactions between a proline-rich protein and a flavan-3-ol by NMR",
+    "type": "article-journal",
+    "volume": "91"
+  },
+  {
+    "abstract": "21(3) 14 (2009)",
+    "author": [
+      {
+        "family": "Balayssac",
+        "given": "Stéphane"
+      },
+      {
+        "family": "Gilard",
+        "given": "Véronique"
+      },
+      {
+        "family": "Delsuc",
+        "given": "M A"
+      },
+      {
+        "family": "Malet-Martino",
+        "given": "Myriam"
+      }
+    ],
+    "containerTitle": "Spectrosc. Eur.",
+    "id": "Balayssac:2009p5367",
+    "issue": "3",
+    "issued": {
+      "dateParts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "10-14",
+    "title": "DOSY NMR, a new tool for fake drug analyses",
+    "type": "article-journal",
+    "volume": "21"
+  },
+  {
+    "author": [
+      {
+        "family": "Gilard",
+        "given": "Véronique"
+      },
+      {
+        "family": "Trefi",
+        "given": "S."
+      },
+      {
+        "family": "Balayssac",
+        "given": "Stéfane"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André."
+      },
+      {
+        "family": "Gostan",
+        "given": "Thierry"
+      },
+      {
+        "family": "Martino",
+        "given": "Myriam"
+      },
+      {
+        "family": "Martino",
+        "given": "Roger"
+      },
+      {
+        "family": "Prigent",
+        "given": "Yann"
+      },
+      {
+        "family": "Taulelle",
+        "given": "Francis"
+      }
+    ],
+    "chapter-number": "26",
+    "containerTitle": "NMR spectroscopy in drug analysis",
+    "editor": [
+      {
+        "family": "Wawer",
+        "given": "I."
+      },
+      {
+        "family": "Holzgrabe",
+        "given": "U."
+      },
+      {
+        "comma-suffix": false,
+        "given": "B.",
+        "suffix": "Diehl"
+      }
+    ],
+    "id": "MAD-2008-1",
+    "issued": {
+      "dateParts": [
+        [
+          2008
+        ]
+      ]
+    },
+    "page": "269-289",
+    "publisher": "Elsevier",
+    "publisher-place": "New-York",
+    "title": "DOSY NMR for drug analysis",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Balayssac",
+        "given": "Stéphane"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Gilard",
+        "given": "Véronique"
+      },
+      {
+        "family": "Prigent",
+        "given": "Yann"
+      },
+      {
+        "family": "Malet-Martino",
+        "given": "Myriam"
+      }
+    ],
+    "containerTitle": "J Magn Resonance Ser A",
+    "id": "MAD-2009-JMR",
+    "issue": "1",
+    "issued": {
+      "dateParts": [
+        [
+          2009
+        ]
+      ]
+    },
+    "page": "78-83",
+    "title": "Two-dimensional DOSY experiment with excitation sculpting water suppression for the analysis of natural and biological media",
+    "type": "article-journal",
+    "volume": "196"
+  },
+  {
+    "author": [
+      {
+        "family": "Tramesel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Catherinot",
+        "given": "Vincent"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "J.Magn.Reson.",
+    "id": "MAD-2007-1",
+    "issued": {
+      "dateParts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "p56-67",
+    "title": "Modeling of NMR processing, toward efficient unattended processing of NMR experiments.",
+    "type": "article-journal",
+    "volume": "188"
+  },
+  {
+    "author": [
+      {
+        "family": "Ravel",
+        "given": "P."
+      },
+      {
+        "family": "Kister",
+        "given": "G."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A"
+      }
+    ],
+    "containerTitle": "J.Bio.NMR",
+    "id": "MAD-2007-p265-75",
+    "issued": {
+      "dateParts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "p265-75",
+    "title": "A general algorithm for peak-tracking in multi-dimensional NMR experiments.",
+    "type": "article-journal",
+    "volume": "37"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Malliavin",
+        "given": "Thérèse E."
+      },
+      {
+        "family": "Marin",
+        "given": "Antoine"
+      },
+      {
+        "family": "Mourrain",
+        "given": "Bernard"
+      }
+    ],
+    "containerTitle": "La science au présent",
+    "id": "MAD-2007-2",
+    "issued": {
+      "dateParts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "title": "Biologie moléculaire structurale et géométrie",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Aerts",
+        "given": "Alexander"
+      },
+      {
+        "family": "Follens",
+        "given": "Lana R.A."
+      },
+      {
+        "family": "Haouas",
+        "given": "Mohamed"
+      },
+      {
+        "family": "Caremans",
+        "given": "Tom P."
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Loppinet",
+        "given": "Benoit"
+      },
+      {
+        "family": "Vermant",
+        "given": "Jan"
+      },
+      {
+        "family": "Goderis",
+        "given": "Bart"
+      },
+      {
+        "family": "Taulelle",
+        "given": "Francis"
+      },
+      {
+        "family": "Martens",
+        "given": "Johan A."
+      },
+      {
+        "family": "Kirschhock",
+        "given": "Christine E.A."
+      }
+    ],
+    "containerTitle": "ChemMat",
+    "id": "MAD-2007-p3448-3454",
+    "issue": "14",
+    "issued": {
+      "dateParts": [
+        [
+          2007
+        ]
+      ]
+    },
+    "page": "p3448-3454",
+    "title": "Combined NMR, SAXS and DLS study of concentrated clear solutions used in silicalite-1 zeolite synthesis",
+    "type": "article-journal",
+    "volume": "19"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "MA"
+      },
+      {
+        "family": "Tramesel",
+        "given": "D."
+      }
+    ],
+    "containerTitle": "Comptes Rendus de l’Académie des Sciences, Section Chimie",
+    "id": "MAD-2006-364-373-",
+    "issue": "3-4",
+    "issued": {
+      "dateParts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "page": "364-373",
+    "title": "Application of maximum entropy processing to NMR multidimensional datasets, partial sampling case",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "abstract": "Protein peak spectrum assignment is a prerequisite of the nuclear magnetic resonance study of a molecule. We present here a computer tool which proposes the determination of the amino acid type from the values of the chemical shifts. This tool is based on two consensus algorithms based on several published typing algorithms and was trained and extensively tested against the Biological Magnetic Resonance Bank chemical shift data bank. The first one accomplishes the analysis with support vector machine technology, grouping related amino acids together, and presents a mean rate of success above 90% on the test set. The second one uses a classical consensus algorithm of vote. Furthermore, secondary structural prediction is available. This tool can be used for assisting manual assignment of peptides and proteins and can also be used as a step in an automated approach to assignment. This program has been called CRAACK and is publicly available at the following URL: http://abcis.cbs.cnrs.fr/craack.",
+    "author": [
+      {
+        "family": "Benod",
+        "given": "C."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M. A."
+      },
+      {
+        "family": "Pons",
+        "given": "J. L."
+      }
+    ],
+    "containerTitle": "J Chem Inf Model",
+    "id": "MAD-2006-1517-22",
+    "issue": "3",
+    "issued": {
+      "dateParts": [
+        [
+          2006
+        ]
+      ]
+    },
+    "keyword": "Algorithms Amino Acids/\\*chemistry Nuclear Magnetic Resonance; Biomolecular/\\*methods Research Support; Non-U.S. Gov’t Sequence Homology; Amino Acid",
+    "page": "1517-22",
+    "title": "CRAACK: Consensus program for NMR amino acid type assignment",
+    "title-short": "CRAACK",
+    "type": "article-journal",
+    "volume": "46"
+  },
+  {
+    "author": [
+      {
+        "family": "Pons",
+        "given": "J.L."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Tramesel",
+        "given": "D."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "Bioinformatics",
+    "id": "MAD-2004-3707-3709-",
+    "issued": {
+      "dateParts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "3707-3709",
+    "title": "NMRb: A web-site repository for raw NMR data-sets.",
+    "title-short": "NMRb",
+    "type": "article-journal",
+    "volume": "20"
+  },
+  {
+    "author": [
+      {
+        "family": "Marin",
+        "given": "A."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "P.Nicolas"
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "J.Bio.NMR",
+    "id": "MAD-2004-47-60",
+    "issued": {
+      "dateParts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "47-60",
+    "title": "From NMR chemical shifts to amino acid types: Investigation of the predictive power carried by nuclei.",
+    "title-short": "From NMR chemical shifts to amino acid types",
+    "type": "article-journal",
+    "volume": "30"
+  },
+  {
+    "author": [
+      {
+        "family": "Gostan",
+        "given": "T."
+      },
+      {
+        "family": "Moreau",
+        "given": "C."
+      },
+      {
+        "family": "Juteau",
+        "given": "A."
+      },
+      {
+        "family": "Guichard",
+        "given": "E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A"
+      }
+    ],
+    "containerTitle": "Magn.Reson.Chem.",
+    "id": "MAD-2004-496-499",
+    "issue": "6",
+    "issued": {
+      "dateParts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "496-499",
+    "title": "Measurement of aroma compound self-diffusion in food models by dosy NMR method",
+    "type": "article-journal",
+    "volume": "42"
+  },
+  {
+    "PMID": "3763504705067451433related:KYQO4JanOjQJ",
+    "author": [
+      {
+        "family": "Gostan",
+        "given": "T"
+      },
+      {
+        "family": "Tramesel",
+        "given": "D"
+      },
+      {
+        "family": "Brun",
+        "given": "E"
+      },
+      {
+        "family": "Prigent",
+        "given": "Y"
+      },
+      {
+        "family": "Delsuc",
+        "given": "MA"
+      }
+    ],
+    "containerTitle": "Spectra analyse",
+    "id": "Gostan:2004p4113",
+    "issue": "240",
+    "issued": {
+      "dateParts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "26-32",
+    "title": "L’expérience dosy, une puissante méthode rmn pour l’analyse de mélanges complexes et la détection de traces",
+    "type": "article-journal",
+    "volume": "33"
+  },
+  {
+    "author": [
+      {
+        "family": "Gostan",
+        "given": "Thierry"
+      },
+      {
+        "family": "Brun",
+        "given": "Emanuel"
+      },
+      {
+        "family": "Tramesel",
+        "given": "Dominique"
+      },
+      {
+        "family": "Prigent",
+        "given": "Yann"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      },
+      {
+        "family": "Guigas",
+        "given": "Bruno"
+      }
+    ],
+    "containerTitle": "Bruker Report",
+    "id": "MAD-2004-X",
+    "issued": {
+      "dateParts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "title": "DOSYm the new integrated dosy acquisition/processing module for topspin NMR software developed by NMRtec.",
+    "type": "article-journal"
+  },
+  {
+    "author": [
+      {
+        "family": "Auguin",
+        "given": "D."
+      },
+      {
+        "family": "Gostan",
+        "given": "T."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A."
+      },
+      {
+        "family": "Roumestand",
+        "given": "C."
+      }
+    ],
+    "containerTitle": "C.R.A.S. Chimie",
+    "id": "MAD-2004-265-271",
+    "issued": {
+      "dateParts": [
+        [
+          2004
+        ]
+      ]
+    },
+    "page": "265-271",
+    "title": "Détermination de l’état d’oligomérisation du domaine homologue <span class=\"nocase\">à</span> la pleckstrine de la protéine akt2 par des techniques RMN",
+    "type": "article-journal",
+    "volume": "7"
+  },
+  {
+    "author": [
+      {
+        "family": "Pons",
+        "given": "J.-L."
+      },
+      {
+        "family": "Lamotte",
+        "given": "F. de"
+      },
+      {
+        "family": "Gautier",
+        "given": "M.-F."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.-A."
+      }
+    ],
+    "containerTitle": "J Biol Chem",
+    "id": "MAD-2003-14249-14256",
+    "issued": {
+      "dateParts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "14249-14256",
+    "title": "Refined solution structure of a liganded type 2 wheat non-specific lipid transfer protein.",
+    "type": "article-journal",
+    "volume": "16"
+  },
+  {
+    "author": [
+      {
+        "family": "Déméné",
+        "given": "H."
+      },
+      {
+        "family": "Granier",
+        "given": "S."
+      },
+      {
+        "family": "Muller",
+        "given": "D."
+      },
+      {
+        "family": "Guillon",
+        "given": "G."
+      },
+      {
+        "family": "Dufour",
+        "given": "M-N."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A."
+      },
+      {
+        "family": "Hiber",
+        "given": "M."
+      },
+      {
+        "family": "Pascal",
+        "given": "R."
+      },
+      {
+        "family": "Mendre",
+        "given": "C."
+      }
+    ],
+    "containerTitle": "Biochemistry",
+    "id": "MAD-2003-8204-13",
+    "issue": "27",
+    "issued": {
+      "dateParts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "8204-13",
+    "title": "Active peptidic mimics of the second intracellular loop of the V1a vasopressin receptor are struturally related to the second intracellular rhopsin loop: A combined $^1$H NMR and biochemical study",
+    "title-short": "Active peptidic mimics of the second intracellular loop of the V1a vasopressin receptor are struturally related to the second intracellular rhopsin loop",
+    "type": "article-journal",
+    "volume": "42"
+  },
+  {
+    "author": [
+      {
+        "family": "Auguin",
+        "given": "D."
+      },
+      {
+        "family": "Catherinot",
+        "given": "V."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Pons",
+        "given": "J.L."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "Spectroscopy",
+    "id": "MAD-2003-559-568",
+    "issued": {
+      "dateParts": [
+        [
+          2003
+        ]
+      ]
+    },
+    "page": "559-568",
+    "title": "Superposition of chemical shifts in NMR spectra can be overcome to determine automatically the structure of a protein",
+    "type": "article-journal",
+    "volume": "17"
+  },
+  {
+    "author": [
+      {
+        "family": "Guillet",
+        "given": "M."
+      },
+      {
+        "family": "Brouard",
+        "given": "S."
+      },
+      {
+        "family": "Gagne",
+        "given": "K."
+      },
+      {
+        "family": "Sebille",
+        "given": "F."
+      },
+      {
+        "family": "Cuturi",
+        "given": "M-C."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A."
+      },
+      {
+        "family": "Soulillou",
+        "given": "J-P."
+      }
+    ],
+    "containerTitle": "J.Immunol.",
+    "id": "MAD-2002-5088-95-",
+    "issue": "10",
+    "issued": {
+      "dateParts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "5088-95",
+    "title": "Different qualitative and quantitative regulation of vb tcr transcripts during early acute allograft rejection and tolerance induction",
+    "type": "article-journal",
+    "volume": "168"
+  },
+  {
+    "author": [
+      {
+        "family": "Gostan",
+        "given": "T."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "id": "MAD-2002-X",
+    "issued": {
+      "dateParts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "title": "Using dosy for trace detection and quantification",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Gostan",
+        "given": "T."
+      },
+      {
+        "family": "Brun",
+        "given": "E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "id": "MAD-2002-X2",
+    "issued": {
+      "dateParts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "title": "Using maxent for dosy processing",
+    "type": "no-type"
+  },
+  {
+    "author": [
+      {
+        "family": "Déméné",
+        "given": "H."
+      },
+      {
+        "family": "Ducat",
+        "given": "T."
+      },
+      {
+        "family": "Barthe",
+        "given": "P."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A."
+      },
+      {
+        "family": "Roumestand",
+        "given": "C."
+      }
+    ],
+    "containerTitle": "J.Bio.NMR",
+    "id": "MAD-2002-47-56",
+    "issued": {
+      "dateParts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "47-56",
+    "title": "Structure refinement of flexible proteins using dipolar couplings: Application to the protein p8$^{MTCP1}$",
+    "title-short": "Structure refinement of flexible proteins using dipolar couplings",
+    "type": "article-journal",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "Catherinot",
+        "given": "V."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Pons",
+        "given": "J.L."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "Bioforum-international",
+    "id": "MAD-2002-8-9-",
+    "issued": {
+      "dateParts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "8-9",
+    "title": "The assignment of protein NMR spectra: From manual analysis to automatic processing",
+    "title-short": "The assignment of protein NMR spectra",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Catherinot",
+        "given": "V."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Pons",
+        "given": "J.L."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "Bioforum",
+    "id": "MAD-2002-8-9-FR",
+    "issued": {
+      "dateParts": [
+        [
+          2002
+        ]
+      ]
+    },
+    "page": "8-9",
+    "title": "L’attribution des spectres RMN: De l’analyse manuelle au traitement automatique",
+    "title-short": "L’attribution des spectres RMN",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "Sebille",
+        "given": "F"
+      },
+      {
+        "family": "Gagne",
+        "given": "K"
+      },
+      {
+        "family": "Guillet",
+        "given": "M"
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A"
+      },
+      {
+        "family": "Soulillou",
+        "given": "J-P"
+      }
+    ],
+    "containerTitle": "Xenotransplantation",
+    "id": "MAD-2001-",
+    "issue": "182",
+    "issued": {
+      "dateParts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "title": "Comparison of specificity and magnitude of t cell mobilization after xenogeneic or allogeneic direct recognition",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "author": [
+      {
+        "family": "Sebille",
+        "given": "F."
+      },
+      {
+        "family": "Gagne",
+        "given": "K."
+      },
+      {
+        "family": "Guillet",
+        "given": "M."
+      },
+      {
+        "family": "N.Degauque"
+      },
+      {
+        "family": "Pallier",
+        "given": "A."
+      },
+      {
+        "family": "Brouard",
+        "given": "S."
+      },
+      {
+        "family": "Vanhove",
+        "given": "B."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A"
+      },
+      {
+        "family": "Soulillou",
+        "given": "J-P"
+      }
+    ],
+    "containerTitle": "J.Immunol.",
+    "id": "MAD-2001-3082-8",
+    "issued": {
+      "dateParts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "3082-8",
+    "title": "Direct recognition of foreign mhc determinants involves an unexpectedly high proportion of T cells selected regardless of their CDR3 length",
+    "type": "article-journal",
+    "volume": "167"
+  },
+  {
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T.A."
+      },
+      {
+        "family": "Barthe",
+        "given": "P."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "Theor. Chem. Acc",
+    "id": "MAD-2001-91-97",
+    "issued": {
+      "dateParts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "91-97",
+    "title": "FIRE : An automatic protocol for protein fold recognition and NMR spectral assignment",
+    "title-short": "FIRE",
+    "type": "article-journal",
+    "volume": "106"
+  },
+  {
+    "author": [
+      {
+        "family": "Esturau",
+        "given": "N."
+      },
+      {
+        "family": "Sánchez-Ferrando",
+        "given": "F."
+      },
+      {
+        "family": "Gavin",
+        "given": "J.A."
+      },
+      {
+        "family": "Roumestand",
+        "given": "C."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A."
+      },
+      {
+        "family": "Parella.",
+        "given": "T."
+      }
+    ],
+    "containerTitle": "J.Magn.Reson.",
+    "id": "MAD-2001-48-55-",
+    "issued": {
+      "dateParts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "48-55",
+    "title": "The use of sample rotation for minimising convection effects in self-diffusion NMR measurements",
+    "type": "article-journal",
+    "volume": "53"
+  },
+  {
+    "author": [
+      {
+        "droppingParticle": "de",
+        "family": "Lamotte",
+        "given": "F."
+      },
+      {
+        "family": "Vagner",
+        "given": "F."
+      },
+      {
+        "family": "Pons",
+        "given": "J.-L."
+      },
+      {
+        "family": "M.-F.Gautier"
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.-A."
+      }
+    ],
+    "containerTitle": "CR Acad. des Sci. Chimie/Chemistry",
+    "id": "MAD-2001-839-843",
+    "issued": {
+      "dateParts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "839-843",
+    "title": "Molecular dynamic studies on a type 2 wheat lipid transfer protein",
+    "type": "article-journal",
+    "volume": "4"
+  },
+  {
+    "author": [
+      {
+        "droppingParticle": "de",
+        "family": "Lamotte",
+        "given": "F."
+      },
+      {
+        "family": "Boze",
+        "given": "H."
+      },
+      {
+        "family": "Blanchard",
+        "given": "C."
+      },
+      {
+        "family": "Klein",
+        "given": "C."
+      },
+      {
+        "family": "Moulin",
+        "given": "G."
+      },
+      {
+        "family": "Gautier",
+        "given": "M.-F."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.-A."
+      }
+    ],
+    "containerTitle": "Prot. Exp. Purif.",
+    "id": "MAD-2001-318-324-",
+    "issued": {
+      "dateParts": [
+        [
+          2001
+        ]
+      ]
+    },
+    "page": "318-324",
+    "title": "NMR monitoring of accumulation and folding of $^{15}$N-labeled protein overexpressed in pichia pastoris.",
+    "type": "article-journal",
+    "volume": "22"
+  },
+  {
+    "author": [
+      {
+        "family": "Arold",
+        "given": "S."
+      },
+      {
+        "family": "Hoh",
+        "given": "F."
+      },
+      {
+        "family": "Domergue",
+        "given": "S."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A."
+      },
+      {
+        "family": "Jullien",
+        "given": "M."
+      },
+      {
+        "family": "Dumas",
+        "given": "C."
+      }
+    ],
+    "containerTitle": "Protein Science",
+    "id": "MAD-2000-p1137-1148",
+    "issued": {
+      "dateParts": [
+        [
+          2000
+        ]
+      ]
+    },
+    "page": "p1137-1148",
+    "title": "Characterisation and molecular basis of the oligomeric state of HIV-1 nef",
+    "type": "article-journal",
+    "volume": "9"
+  },
+  {
+    "author": [
+      {
+        "family": "Pons",
+        "given": "J.L."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A."
+      }
+    ],
+    "containerTitle": "J. Bio. NMR",
+    "id": "MAD-1999-15-26",
+    "issued": {
+      "dateParts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "15-26",
+    "title": "Rescue : An artificial neural network tool for helping the NMR spectral assignment of proteins",
+    "title-short": "Rescue",
+    "type": "article-journal",
+    "volume": "15"
+  },
+  {
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Desvaux",
+        "given": "H."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A."
+      }
+    ],
+    "containerTitle": "J.Chim.Phys.",
+    "id": "MAD-1999-",
+    "issue": "1608-1615",
+    "issued": {
+      "dateParts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "title": "Quantitative measurement of longitudinal and transverse cross-relaxation rates",
+    "type": "article-journal",
+    "volume": "96"
+  },
+  {
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Desvaux",
+        "given": "H."
+      },
+      {
+        "family": "Aumelas",
+        "given": "A."
+      },
+      {
+        "family": "Chavanieu",
+        "given": "A."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A."
+      }
+    ],
+    "containerTitle": "J.Magn.Reson.",
+    "id": "MAD-1999-189-199-",
+    "issued": {
+      "dateParts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "189-199",
+    "title": "Quantitative measurement of longitudinal and transverse cross-relaxation rates: An application to the analysis of the internal dynamics of ranalexin in water and trifluoroethanol",
+    "title-short": "Quantitative measurement of longitudinal and transverse cross-relaxation rates",
+    "type": "article-journal",
+    "volume": "140"
+  },
+  {
+    "author": [
+      {
+        "family": "Barthe",
+        "given": "P."
+      },
+      {
+        "family": "Chiche",
+        "given": "L."
+      },
+      {
+        "family": "Declerck",
+        "given": "N."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.-A."
+      },
+      {
+        "family": "Lefèvre",
+        "given": "J.-F."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T."
+      },
+      {
+        "family": "Mispelter",
+        "given": "J."
+      },
+      {
+        "family": "Stern",
+        "given": "M.-H."
+      },
+      {
+        "family": "Lhoste",
+        "given": "J.-M."
+      },
+      {
+        "family": "Roumestand",
+        "given": "C."
+      }
+    ],
+    "containerTitle": "J. Biomol. NMR",
+    "id": "MAD-1999-271-288-",
+    "issued": {
+      "dateParts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "keyword": "DOSY; relaxation",
+    "page": "271-288",
+    "title": "Refined solution structure and backbone dynamics of $^{15}$N-labeled c12a-p8$^{MTCP1}$ studied by NMR relaxation",
+    "type": "article-journal",
+    "volume": "15"
+  },
+  {
+    "author": [
+      {
+        "family": "Barthe",
+        "given": "Ph."
+      },
+      {
+        "family": "N.Declerck"
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A."
+      },
+      {
+        "family": "Lefèvre",
+        "given": "J-F."
+      },
+      {
+        "family": "Roumestand",
+        "given": "Ch."
+      }
+    ],
+    "containerTitle": "J.Chim.Phys.",
+    "id": "MAD-1999-1585-1594-",
+    "issued": {
+      "dateParts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "1585-1594",
+    "title": "Backbone dynamics study of c12a-p8$^{MTCP1}$ using the linear correlation approach at 2 magnetic field strength. Effect of protein aggregation",
+    "type": "article-journal",
+    "volume": "96"
+  },
+  {
+    "author": [
+      {
+        "family": "Augé",
+        "given": "S."
+      },
+      {
+        "family": "Amblard-Blondel",
+        "given": "B."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M-A."
+      }
+    ],
+    "containerTitle": "J.Chim.Phys.",
+    "id": "MAD-1999-p1559-1565",
+    "issued": {
+      "dateParts": [
+        [
+          1999
+        ]
+      ]
+    },
+    "page": "p1559-1565",
+    "title": "Investigation of the diffusion measurement using pfg and test of robustness against experimental conditions and parameters",
+    "type": "article-journal",
+    "volume": "96"
+  },
+  {
+    "author": [
+      {
+        "droppingParticle": "de",
+        "family": "Lamotte-Guery",
+        "given": "F"
+      },
+      {
+        "family": "Pruvost",
+        "given": "C"
+      },
+      {
+        "family": "Lullien-Pellerin",
+        "given": "V"
+      },
+      {
+        "family": "Gautier",
+        "given": "M F"
+      },
+      {
+        "family": "Joudrier",
+        "given": "P"
+      },
+      {
+        "family": "Delsuc",
+        "given": "Marc-André"
+      }
+    ],
+    "containerTitle": "Plant proteins from european crops",
+    "id": "deLamotteGuery:1998jy",
+    "issued": {
+      "dateParts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "52-57",
+    "publisher": "Springer, Berlin, Heidelberg",
+    "publisher-place": "Berlin, Heidelberg",
+    "title": "<span class=\"nocase\">Structural Studies on Wheat Thioredoxin h</span>",
+    "type": "chapter"
+  },
+  {
+    "abstract": "Motivation: Peptide and protein structures are deter-mined daily using NMR spectroscopy. Assignment of the NMR spectra is an important step within the procedure and is usually the limiting one. Computer-aided assignment roofs should be used friendly with open architecture to communicate with other programs involved in the structure determination. Results: Here we present an interactive NMR assignment module which provides numerous graphic tools for the user: The module is composed of a database management system-hanging peaks, spins and spin-systems. The assignment information is maintained as a set of interrelated elated associative arrays, which serve as generic high-level data structures. The module is developed in the macro language embedded in the Gifa NMR processing program (Pons et al., J. Biomol. NMR, 8, 445-452, 1996). This provides the user with a consistent interface, a set of sophisticated tools, and an easily extendible and customizable environment. Availability: The program is available on request from the authors. The Gifa package can be accessed at: http://www.cbs.univ-montp1.fr/GIFA Contact: Marc-Andre.Delsuc.at.cbs.univ-montp1.fr.",
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Pons",
+        "given": "J.L."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "id": "MAD-1998-624-631",
+    "issue": "7",
+    "issued": {
+      "dateParts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "keyword": "AUTOMATED RESONANCE ASSIGNMENT; HETERONUCLEAR 3D NMR; BACKBONE RESONANCES; SPIN SYSTEMS; PROTEINS; SPECTRA; ALGORITHM; PACKAGE; GARANT",
+    "page": "624-631",
+    "title": "An NMR assignment module implemented in the gifa NMR processing program",
+    "type": "article-journal",
+    "volume": "14"
+  },
+  {
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Louis",
+        "given": "V."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "J Chim Phys Phys Chim Biol",
+    "id": "MAD-1998-178-186",
+    "issue": "2",
+    "issued": {
+      "dateParts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "keyword": "DOSY; micelle; protegrin; MaxEnt; IMAGE-RECONSTRUCTION; NMR-SPECTROSCOPY; DIFFUSION; ASSOCIATION; RESOLUTION",
+    "page": "178-186",
+    "title": "The dosy experiment provides insights into the protegrin-lipid interaction",
+    "type": "article-journal",
+    "volume": "95"
+  },
+  {
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Desvaux",
+        "given": "H."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "Magn. Reson. in Chem.",
+    "id": "MAD-1998-p801-806-",
+    "issued": {
+      "dateParts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "p801-806",
+    "title": "Conditions for the measurement of quantitative off-resonance roesy intensities",
+    "type": "article-journal",
+    "volume": "36"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      }
+    ],
+    "containerTitle": "Anal Chem",
+    "id": "MAD-1998-2146-2148",
+    "issue": "10",
+    "issued": {
+      "dateParts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "keyword": "CONSTRAINED REGULARIZATION METHOD; QUASIELASTIC LIGHT-SCATTERING; IMAGE-RECONSTRUCTION; INTEGRAL-EQUATIONS; SPECTROSCOPY; DIFFUSION; RESOLUTION",
+    "page": "2146-2148",
+    "title": "Maximum entropy processing of dosy NMR spectra",
+    "type": "article-journal",
+    "volume": "70"
+  },
+  {
+    "author": [
+      {
+        "family": "Castro",
+        "given": "P."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "Magn. Reson. Chem.",
+    "id": "MAD-1998-833-838-",
+    "issued": {
+      "dateParts": [
+        [
+          1998
+        ]
+      ]
+    },
+    "page": "833-838",
+    "title": "An NMR probe with a high-pressure chamber made from composite materials",
+    "type": "article-journal",
+    "volume": "36"
+  },
+  {
+    "author": [
+      {
+        "family": "Stoven",
+        "given": "V."
+      },
+      {
+        "family": "Annereau",
+        "given": "J.P."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J Chem Inform Comput Sci",
+    "id": "MAD-1997-265-272",
+    "issue": "2",
+    "issued": {
+      "dateParts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "keyword": "DECONVOLUTION; SPECTROSCOPY; CONSTANTS; SYMMETRY",
+    "page": "265-272",
+    "title": "A new n-channel maximum entropy method in NMR for automatic reconstruction of ”decoupled spectra” and j-coupling determination",
+    "type": "article-journal",
+    "volume": "37"
+  },
+  {
+    "author": [
+      {
+        "family": "deLamotteGuery",
+        "given": "F."
+      },
+      {
+        "family": "Pruvost",
+        "given": "C."
+      },
+      {
+        "family": "Minard",
+        "given": "P."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "MiginiacMaslow",
+        "given": "M."
+      },
+      {
+        "family": "Schmitter",
+        "given": "J.M."
+      },
+      {
+        "family": "Stein",
+        "given": "M."
+      },
+      {
+        "family": "Decottignies",
+        "given": "P."
+      }
+    ],
+    "containerTitle": "Protein Eng",
+    "id": "MAD-1997-1425-1432-",
+    "issue": "12",
+    "issued": {
+      "dateParts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "keyword": "alpha-helix; NADP-malate dehydrogenase activation; protein stability; site-directed mutagenesis; thioredoxin; NADP-MALATE DEHYDROGENASE; SITE-DIRECTED MUTAGENESIS; AMINO-ACID; CRYSTAL-STRUCTURE; STABILITY; PROTEIN; MUTANT; SUBSTITUTIONS; REPLACEMENT; RESOLUTION",
+    "page": "1425-1432",
+    "title": "Structural and functional roles of a conserved proline residue in the alpha 2 helix of escherichia coli thioredoxin",
+    "type": "article-journal",
+    "volume": "10"
+  },
+  {
+    "author": [
+      {
+        "family": "Aggarwal",
+        "given": "K."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "Magn Reson Chem",
+    "id": "MAD-1997-593-596",
+    "issue": "9",
+    "issued": {
+      "dateParts": [
+        [
+          1997
+        ]
+      ]
+    },
+    "keyword": "NMR; multi-dimensional NMR; partial sampling; acquisition protocols; SPECTRA; SPECTROSCOPY; SCHEMES",
+    "page": "593-596",
+    "title": "Triangular sampling of multidimensional NMR data sets",
+    "type": "article-journal",
+    "volume": "35"
+  },
+  {
+    "author": [
+      {
+        "family": "Pons",
+        "given": "J.L."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "J. Biomol. NMR",
+    "id": "MAD-1996-445-452",
+    "issue": "4",
+    "issued": {
+      "dateParts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "keyword": "linear prediction; FFT; maximum entropy; signal processing; MaxEnt; software; command language; graphic user interface; MAXIMUM-ENTROPY; SPECTRA; ALGORITHM; TIME; SIGNALS; PROGRAM",
+    "page": "445-452",
+    "title": "Gifa v 4: A complete package for NMR data set processing",
+    "title-short": "Gifa v 4",
+    "type": "article-journal",
+    "volume": "8"
+  },
+  {
+    "author": [
+      {
+        "family": "Gavin",
+        "given": "J.A."
+      },
+      {
+        "family": "Pons",
+        "given": "J.L."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "J Magn Resonance Ser A",
+    "id": "MAD-1996-64-66",
+    "issue": "1",
+    "issued": {
+      "dateParts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "keyword": "PULSED-FIELD GRADIENTS; NMR; SPECTROSCOPY; IMPROVEMENT; SPECTRA",
+    "page": "64-66",
+    "title": "Relative sensitivity of different acquisition schemes for $^{13}$C natural-abundance HSQC experiments",
+    "type": "article-journal",
+    "volume": "122"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "collection-title": "Data handling in science and technology",
+    "containerTitle": "Signal treatment and signal analysis in NMR",
+    "editor": [
+      {
+        "family": "Rutledge",
+        "given": "D.N."
+      }
+    ],
+    "id": "MAD-1996-374-406",
+    "issued": {
+      "dateParts": [
+        [
+          1996
+        ]
+      ]
+    },
+    "note": "Book",
+    "page": "374-406",
+    "publisher": "elsevier",
+    "publisher-place": "Amsterdam",
+    "title": "Data processing in high-resolution multidimensional NMR",
+    "type": "chapter",
+    "volume": "18"
+  },
+  {
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Orekhov",
+        "given": "V.Y."
+      },
+      {
+        "family": "Arseniev",
+        "given": "A.S."
+      }
+    ],
+    "containerTitle": "J. Biomol. NMR",
+    "id": "MAD-1995-193-201-",
+    "issue": "2",
+    "issued": {
+      "dateParts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "keyword": "N-15-labelled protein; heteronuclear spectroscopy; 3D NOESY-HMQC; spin-lattice relaxation time; relaxation matrix; iterative distance calculation; bacteriorhodopsin; RELAXATION MATRIX APPROACH; OVERHAUSER EFFECT SPECTRA; INTERPROTON DISTANCES; NMR-SPECTROSCOPY; CROSS-RELAXATION; REFINEMENT; INTENSITIES; RESONANCE; SEQUENCE; MODEL",
+    "page": "193-201",
+    "title": "An estimate of spin diffusion in a spin subset: Application to iterative distance calculation from 3D n-15 noesy-hmqc",
+    "title-short": "An estimate of spin diffusion in a spin subset",
+    "type": "article-journal",
+    "volume": "5"
+  },
+  {
+    "author": [
+      {
+        "family": "Brissac",
+        "given": "C."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "J Biomol NMR",
+    "id": "MAD-1995-361-365",
+    "issue": "4",
+    "issued": {
+      "dateParts": [
+        [
+          1995
+        ]
+      ]
+    },
+    "keyword": "t(1) noise; 2D NMR spectroscopy; Cadzow procedure; singular value decomposition; gradient; MULTIPLE QUANTUM NMR; T1 NOISE; ENHANCEMENT; SPECTROSCOPY; SUPPRESSION; ALGORITHM; SPECTRA",
+    "page": "361-365",
+    "title": "Use of the cadzow procedure in 2D NMR for the reduction of t(1) noise",
+    "type": "article-journal",
+    "volume": "6"
+  },
+  {
+    "author": [
+      {
+        "family": "Timmerman",
+        "given": "J.E."
+      },
+      {
+        "family": "Guiard",
+        "given": "B."
+      },
+      {
+        "family": "Shechter",
+        "given": "E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      },
+      {
+        "family": "Gervais",
+        "given": "M."
+      }
+    ],
+    "containerTitle": "Eur J Biochem",
+    "id": "MAD-1994-593-599",
+    "issue": "2",
+    "issued": {
+      "dateParts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "keyword": "GENE-EXPRESSION; ACTIVATOR; GAL4; SEQUENCE; HAP1; PROTEINS; OXYGEN; FORMS; CYP1",
+    "page": "593-599",
+    "title": "The dna-binding domain of the yeast saccharomyces cerevisiae cyp1(HAP1) transcription factor possesses two zinc ions which are complexed in a zinc cluster",
+    "type": "article-journal",
+    "volume": "225"
+  },
+  {
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "Satitistical mechanics, protein structure, and protein substrate interactions",
+    "editor": [
+      {
+        "family": "S.Doniach"
+      }
+    ],
+    "id": "MAD-1994-p225-228-Book",
+    "issued": {
+      "dateParts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "page": "p225-228",
+    "publisher": "Plenm Press",
+    "publisher-place": "New-York",
+    "title": "A decomposition of the nOe matrix",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "J Chim Phys Phys-Chim Biol",
+    "id": "MAD-1994-639-645",
+    "issue": "6",
+    "issued": {
+      "dateParts": [
+        [
+          1994
+        ]
+      ]
+    },
+    "keyword": "RELAXATION MATRIX; NMR",
+    "page": "639-645",
+    "title": "A decomposition of the noe intensity matrix",
+    "type": "article-journal",
+    "volume": "91"
+  },
+  {
+    "author": [
+      {
+        "family": "Rouh",
+        "given": "A."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Bertrand",
+        "given": "G."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J. Magn. Res. Ser A",
+    "id": "MAD-1993-357-359-",
+    "issued": {
+      "dateParts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "page": "357-359",
+    "title": "The use of classification in baseline correction of FT NMR spectra",
+    "type": "article-journal",
+    "volume": "102"
+  },
+  {
+    "author": [
+      {
+        "family": "Abergel",
+        "given": "D."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "Theochem-J Mol Struct",
+    "id": "MAD-1993-65-70-",
+    "issued": {
+      "dateParts": [
+        [
+          1993
+        ]
+      ]
+    },
+    "keyword": "SPECTROSCOPY",
+    "note": "Article MA Delsuc, Fac Pharm Montpellier, Ctr Biol Struct, 15 Ave Charles Flahault, F-34060 Montpellier, France",
+    "page": "65-70",
+    "title": "Automatic extraction of connected subspectra from homonuclear 3D NMR data sets",
+    "type": "article-journal",
+    "volume": "105"
+  },
+  {
+    "author": [
+      {
+        "family": "Reisdorf",
+        "given": "C."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M. A."
+      }
+    ],
+    "containerTitle": "Biochimie",
+    "id": "MAD-1992-809-813-",
+    "issued": {
+      "dateParts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "keyword": "distance estimate; noe; spin-diffusion",
+    "page": "809-813",
+    "title": "Accurate estimation of inter-atomic distances in large proteins by NMR",
+    "type": "article-journal",
+    "volume": "74"
+  },
+  {
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T. E."
+      },
+      {
+        "family": "Rouh",
+        "given": "A."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "C.R.A.S. série 2",
+    "id": "MAD-1992-653-659",
+    "issued": {
+      "dateParts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "page": "653-659",
+    "title": "A direct approach of molecular structures determination from nuclear overhauser effet; approche directe de la détermination de structures moléculaires <span class=\"nocase\">à</span> partir de l’Effet overhauser nucléaire",
+    "type": "article-journal",
+    "volume": "315"
+  },
+  {
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T. E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M. A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J. Y."
+      }
+    ],
+    "containerTitle": "J.Bio.NMR.",
+    "id": "MAD-1992-349-360-",
+    "issued": {
+      "dateParts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "page": "349-360",
+    "title": "Computation of redfield matrix element from incomplete noesy data-sets",
+    "type": "article-journal",
+    "volume": "2"
+  },
+  {
+    "author": [
+      {
+        "family": "LeGoas",
+        "given": "R."
+      },
+      {
+        "family": "Laplante",
+        "given": "S. R."
+      },
+      {
+        "family": "Mikou",
+        "given": "A."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Charpentier",
+        "given": "I."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "Biochemistry",
+    "id": "MAD-1992-4867-4875",
+    "issued": {
+      "dateParts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "page": "4867-4875",
+    "title": "$\\alpha$-cobratoxine : Proton NMR assignments and solution structure",
+    "title-short": "$\\alpha$-cobratoxine",
+    "type": "article-journal",
+    "volume": "31"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Fortier",
+        "given": "P.L."
+      },
+      {
+        "droppingParticle": "van",
+        "family": "Heijenoort",
+        "given": "C."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Robin",
+        "given": "M."
+      },
+      {
+        "family": "Rouh",
+        "given": "A."
+      }
+    ],
+    "containerTitle": "Les cahiers imabio",
+    "id": "MAD-1992-49-61-Book",
+    "issued": {
+      "dateParts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "note": "Book FR",
+    "page": "49-61",
+    "title": "Le traitement des données en RMN",
+    "type": "chapter",
+    "volume": "3"
+  },
+  {
+    "author": [
+      {
+        "family": "Abergel",
+        "given": "D."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J.Chem.Phys",
+    "id": "MAD-1992-1657",
+    "issued": {
+      "dateParts": [
+        [
+          1992
+        ]
+      ]
+    },
+    "page": "1657",
+    "title": "Are multi-quanta coherences on liquid water real ?",
+    "type": "article-journal",
+    "volume": "96"
+  },
+  {
+    "author": [
+      {
+        "family": "Robin",
+        "given": "M."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1991-645-650",
+    "issued": {
+      "dateParts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "keyword": "non-linear sampling Maximum entropy",
+    "page": "645-650",
+    "title": "Optimized acquisition and processing scheme in 3D NMR spectroscopy",
+    "type": "article-journal",
+    "volume": "92"
+  },
+  {
+    "author": [
+      {
+        "family": "Malliavin",
+        "given": "T.E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1991-630-634-",
+    "issued": {
+      "dateParts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "keyword": "compression",
+    "page": "630-634",
+    "title": "Compression of multi-dimensionnal NMR data-sets",
+    "type": "article-journal",
+    "volume": "94"
+  },
+  {
+    "author": [
+      {
+        "family": "Fortier",
+        "given": "P.L."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Kahn",
+        "given": "P."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1991-161-164-",
+    "issued": {
+      "dateParts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "page": "161-164",
+    "title": "Convolution difference in the time domain, and its application to 2D NMR",
+    "type": "article-journal",
+    "volume": "95"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Robin",
+        "given": "M."
+      },
+      {
+        "family": "Van Heijnoort",
+        "given": "C."
+      },
+      {
+        "family": "Reisdorf",
+        "given": "C.B."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "collection-title": "NATO asi series",
+    "containerTitle": "Computational aspects of the study of biological macromolecules by NMR spectroscopy",
+    "editor": [
+      {
+        "family": "Hoch",
+        "given": "J.C."
+      },
+      {
+        "family": "Poulsen",
+        "given": "F.M."
+      },
+      {
+        "family": "Redfield",
+        "given": "C."
+      }
+    ],
+    "id": "MAD-1991-163-174-Book",
+    "issued": {
+      "dateParts": [
+        [
+          1991
+        ]
+      ]
+    },
+    "note": "Book",
+    "page": "163-174",
+    "publisher": "Plenum Press",
+    "publisher-place": "New-York",
+    "title": "Application of maximum entropy methods to NMR spectra of proteins.",
+    "type": "chapter",
+    "volume": "225"
+  },
+  {
+    "author": [
+      {
+        "family": "Stoven",
+        "given": "V."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      },
+      {
+        "family": "Abergel",
+        "given": "D."
+      },
+      {
+        "family": "Bouaziz",
+        "given": "S."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Ekondzi",
+        "given": "A."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Laplante",
+        "given": "S."
+      },
+      {
+        "family": "LeGoas",
+        "given": "R."
+      },
+      {
+        "family": "Malliavin",
+        "given": "T."
+      },
+      {
+        "family": "Reisdorf",
+        "given": "C."
+      },
+      {
+        "family": "Robin",
+        "given": "M."
+      },
+      {
+        "droppingParticle": "van",
+        "family": "Heijenoort",
+        "given": "C."
+      },
+      {
+        "family": "Yang.Y."
+      }
+    ],
+    "containerTitle": "Biochimie",
+    "id": "MAD-1990-p531-535-",
+    "issued": {
+      "dateParts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "page": "p531-535",
+    "title": "Insight into protein nuclear magnetic resonance research",
+    "type": "article-journal",
+    "volume": "72"
+  },
+  {
+    "author": [
+      {
+        "family": "Robin",
+        "given": "M."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J.Am.Chem.Soc.",
+    "id": "MAD-1990-6394-6396",
+    "issued": {
+      "dateParts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "page": "6394-6396",
+    "title": "A 3D NMR approach to multiple-quantum-filtered correlated NMR spectroscopy, and its application to proteins",
+    "type": "article-journal",
+    "volume": "112"
+  },
+  {
+    "author": [
+      {
+        "family": "Mikou",
+        "given": "A."
+      },
+      {
+        "family": "Laplante",
+        "given": "S.R."
+      },
+      {
+        "family": "LeGoas",
+        "given": "R."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Charpentier",
+        "given": "I."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "Modeling of molecular structures properties - studies in physical and theoretical chemistry",
+    "editor": [
+      {
+        "family": "Rivail"
+      }
+    ],
+    "id": "MAD-1990-685-693-Book",
+    "issued": {
+      "dateParts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "note": "Book",
+    "page": "685-693",
+    "title": "Preliminary structure determination of two toxines using NMR data",
+    "type": "chapter",
+    "volume": "71"
+  },
+  {
+    "author": [
+      {
+        "family": "Laplante",
+        "given": "S.R."
+      },
+      {
+        "family": "Mikou",
+        "given": "A."
+      },
+      {
+        "family": "Robin",
+        "given": "M."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Charpentier",
+        "given": "I."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "Int. J. Peptide Protein Res.",
+    "id": "MAD-1990-227-230-",
+    "issued": {
+      "dateParts": [
+        [
+          1990
+        ]
+      ]
+    },
+    "page": "227-230",
+    "title": "Rapid determination and NMR assignement of anti-parallele sheets and helices of a scorpion and a cobra toxin",
+    "type": "article-journal",
+    "volume": "36"
+  },
+  {
+    "author": [
+      {
+        "family": "Mazzeo",
+        "given": "A.R."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Kumar",
+        "given": "A."
+      },
+      {
+        "family": "Levy",
+        "given": "G.C."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1989-512-519",
+    "issued": {
+      "dateParts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "page": "512-519",
+    "title": "Generalized maximum entropy deconvolution of spectral segments.",
+    "type": "article-journal",
+    "volume": "81"
+  },
+  {
+    "author": [
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Laplante",
+        "given": "S.R."
+      },
+      {
+        "family": "Mikou",
+        "given": "A."
+      },
+      {
+        "family": "Robin",
+        "given": "M."
+      },
+      {
+        "family": "Stoven",
+        "given": "V."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "Bulletin of Magnetique Resonance",
+    "id": "MAD-1989-3-4-",
+    "issued": {
+      "dateParts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "page": "3-4",
+    "title": "A toxin of cobra venom, methods for structure determination by NMR",
+    "type": "article-journal",
+    "volume": "11"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "Maximum entropy and bayesian methods",
+    "edition": "1989",
+    "editor": [
+      {
+        "family": "Skilling",
+        "given": "J."
+      }
+    ],
+    "id": "MAD-1989-285-290-Book",
+    "issued": {
+      "dateParts": [
+        [
+          1989
+        ]
+      ]
+    },
+    "keyword": "Gifa; maxent",
+    "note": "ref de gifa",
+    "page": "285-290",
+    "publisher": "Kluwer Academic",
+    "publisher-place": "Dordrecht",
+    "title": "A new maximum entropy processing algorithm, with applications to nuclear magnetic resonance experiments",
+    "type": "chapter"
+  },
+  {
+    "author": [
+      {
+        "family": "Grahn",
+        "given": "H."
+      },
+      {
+        "family": "Delaglio",
+        "given": "F."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Levy",
+        "given": "G.C."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1988-294-307-",
+    "issued": {
+      "dateParts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "page": "294-307",
+    "title": "Multivariate data analysis for pattern recognition in 2-dimensional NMR",
+    "type": "article-journal",
+    "volume": "77"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "M. A."
+      },
+      {
+        "family": "Levy",
+        "given": "G. C."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1988-306-315",
+    "issued": {
+      "dateParts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "keyword": "/ maximum entropy / deconvolution of J-coupling patterns / NMR /",
+    "note": "JAIJAI",
+    "page": "306-315",
+    "title": "J-deconvolution : The application of maximum entropy processing to the deconvolution of coupling patterns in NMR",
+    "title-short": "J-deconvolution",
+    "type": "article-journal",
+    "volume": "76"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1988-119-124",
+    "issued": {
+      "dateParts": [
+        [
+          1988
+        ]
+      ]
+    },
+    "page": "119-124",
+    "title": "A new spectral representation for 2D NMR spectra: The hypercomplex numbers.",
+    "title-short": "A new spectral representation for 2D NMR spectra",
+    "type": "article-journal",
+    "volume": "77"
+  },
+  {
+    "author": [
+      {
+        "family": "Thomas",
+        "given": "M.A."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Beloeil",
+        "given": "J.C."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "Biochem. Biophys. Res. Comm.",
+    "id": "MAD-1987-1098-1104",
+    "issue": "3",
+    "issued": {
+      "dateParts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "page": "1098-1104",
+    "title": "$^1$H NMR investigation of yeast cytochrome c: Interaction with the corresponding specific reductase (l-lactate cytochrome)",
+    "title-short": "$^1$H NMR investigation of yeast cytochrome c",
+    "type": "article-journal",
+    "volume": "145"
+  },
+  {
+    "author": [
+      {
+        "family": "Piveteau",
+        "given": "D."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1987-347-348-",
+    "issued": {
+      "dateParts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "page": "347-348",
+    "title": "The lock and return experiment for water suppression with hartman-hahn transfer",
+    "type": "article-journal",
+    "volume": "71"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Ni",
+        "given": "F."
+      },
+      {
+        "family": "Levy",
+        "given": "G.C."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1987-548-552",
+    "issued": {
+      "dateParts": [
+        [
+          1987
+        ]
+      ]
+    },
+    "page": "548-552",
+    "title": "Improvement of linear prediction processing of very low signal-to-noise NMR spectra",
+    "type": "article-journal",
+    "volume": "73"
+  },
+  {
+    "author": [
+      {
+        "family": "Piveteau",
+        "given": "D."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1986-290-294-",
+    "issued": {
+      "dateParts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "page": "290-294",
+    "title": "BOWMAN a versatile simulation program for high-resolution, NMR multipulse experiments",
+    "type": "article-journal",
+    "volume": "70"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1986-p504-507",
+    "issued": {
+      "dateParts": [
+        [
+          1986
+        ]
+      ]
+    },
+    "page": "p504-507",
+    "title": "Improvement of dynamic range in NMR by oversampling",
+    "type": "article-journal",
+    "volume": "69"
+  },
+  {
+    "author": [
+      {
+        "family": "Piveteau",
+        "given": "D."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M. A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J-Y."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1985-255-270",
+    "issued": {
+      "dateParts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "keyword": "/ 2D NMR / phase cycling / Screw pulse /",
+    "page": "255-270",
+    "title": "A new approach to phase-cycling schemes: The screw-pulse concept",
+    "title-short": "A new approach to phase-cycling schemes",
+    "type": "article-journal",
+    "volume": "63"
+  },
+  {
+    "author": [
+      {
+        "family": "Piveteau",
+        "given": "D."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "Org.Magn.Reson.",
+    "id": "MAD-1985-p127-129",
+    "issue": "2",
+    "issued": {
+      "dateParts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "page": "p127-129",
+    "title": "Improvement of the 2D inadequate technique by a double selection experiment",
+    "type": "article-journal",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Piveteau",
+        "given": "D."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1985-336-339",
+    "issued": {
+      "dateParts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "page": "336-339",
+    "title": "Phase pulses as an approach to phase shifts without phase shifters",
+    "type": "article-journal",
+    "volume": "62"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "Org.Magn.Reson.",
+    "id": "MAD-1985-213-215-",
+    "issue": "3",
+    "issued": {
+      "dateParts": [
+        [
+          1985
+        ]
+      ]
+    },
+    "page": "213-215",
+    "title": "Selective heteronuclear chemical shift correlation without soft pulses",
+    "type": "article-journal",
+    "volume": "23"
+  },
+  {
+    "author": [
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J.Am.Chem.Soc.",
+    "id": "MAD-1984-4278",
+    "issued": {
+      "dateParts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "page": "4278",
+    "title": "Real 2D NMR solvent suppression technique",
+    "type": "article-journal",
+    "volume": "106"
+  },
+  {
+    "author": [
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Guittet",
+        "given": "E."
+      },
+      {
+        "family": "Trotin",
+        "given": "N."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J. Magn. Reson.",
+    "id": "MAD-1984-163-166-",
+    "issued": {
+      "dateParts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "page": "163-166",
+    "title": "2D correlation spectroscopy with heteronuclear relay",
+    "type": "article-journal",
+    "volume": "56"
+  },
+  {
+    "author": [
+      {
+        "family": "Dauphin",
+        "given": "G."
+      },
+      {
+        "family": "Beloeil",
+        "given": "J.C."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Geminet"
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J.Org.Chem.",
+    "id": "MAD-1984-1797-1800-",
+    "issue": "10",
+    "issued": {
+      "dateParts": [
+        [
+          1984
+        ]
+      ]
+    },
+    "page": "1797-1800",
+    "title": "Application of the homonuclear and heteronuclear 2D chemical shift correlation NMR spectroscopy to complete assignement of antibiotic x14547a",
+    "type": "article-journal",
+    "volume": "49"
+  },
+  {
+    "author": [
+      {
+        "family": "Lecocq",
+        "given": "C."
+      },
+      {
+        "family": "Delsuc",
+        "given": "M.A."
+      },
+      {
+        "family": "Lallemand",
+        "given": "J.Y."
+      }
+    ],
+    "containerTitle": "J.Chem.Soc., Chem.Commun.",
+    "id": "MAD-1981-413-",
+    "issued": {
+      "dateParts": [
+        [
+          1981
+        ]
+      ]
+    },
+    "page": "413",
+    "title": "$^1$H-$^{13}$C NMR chemical shift correlation.",
+    "type": "article-journal"
+  }
+]

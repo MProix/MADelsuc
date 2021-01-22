@@ -4,6 +4,18 @@
     src: url("../../static/fonts/madfont.ttf") format("TrueType"),
            url("../../static/fonts/madfont.otf") format("OpenType");
    }
+.centered{
+    text-align: center;
+}
+.bold{
+    font-weight: bold;
+}
+.italic{
+    font-style: italic;
+}
+.nonItalic{
+    font-style: normal !important;
+}
 
 
 /*======================================================LARGE SCREENS===========================================*/
@@ -174,8 +186,10 @@
     }
     .titleYear{
         color: white;
+        font-size: 25px;
         background-color: rgb(8, 40, 83);
         padding: 0.5vh 0.5vw;
+        font-weight: normal;
     }
     .year div{
         margin: 4vh 0vw 2vh 50px;
@@ -230,9 +244,6 @@
         color: rgb(18, 98, 204);
         font-size: larger;
     }
-    .italic{
-        font-style: italic;
-    }
     #main_scientific_interests{
         line-height: 150%;
         font-size: larger;
@@ -240,6 +251,11 @@
     }
     #main_scientific_interests h1{
         text-align: left;
+        font-size: 25px;
+        background-color: rgb(8, 40, 83);
+        color: white;
+        padding: 0.5vh 0.5vw;
+        font-weight: normal;
     }
     #spaghettis_part{
         display: flex;
@@ -267,24 +283,64 @@
         padding: 0vh 1vw 1vh 0vw;
         border-radius: 50%;
     }
-    /* .num{
+    #cv h1{
         color: white;
-        background-color:rgba(8,40,83,1);
-        position: absolute;
-        bottom: 0;
-        margin: 0;
-        z-index: 3;
-    } */
-    .centered{
-        text-align: center;
+        font-size: 25px;
+        background-color: rgb(8, 40, 83);
+        padding: 0.5vh 0.5vw;
+        font-weight: normal;
     }
-    /* .gsc_md_hist_w{
-        margin-top: 10vh;
-    } */
-    /* .gsc_g_a{
-        width: 30px !important;
-    } */
-    /*-------------------------------------stylising MAD's code without changing contain----------------*/
+    .partCV{
+        border-collapse: collapse;
+    }
+    .partCV td{
+        border: 1px solid white;
+    }
+    .yearCV{
+        hyphens: none;
+        text-align: right;
+        padding: 1vh 2vw 1vh 0vw;
+        white-space: nowrap;
+        min-width:fit-content;
+    }
+    .CVEvent{
+        padding: 1vh 0vw 1vh 0vw;
+    }
+                        /*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\--------PUBLICATIONS------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+    .tablePublis{
+        /* border: 1px solid #c9cacb;
+        box-shadow: 3px 4px 5px #c9cacb; */
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .titlePubli{
+        font-size: 17px;
+    }
+    #tRow4td{
+        font-size: 14px;
+    }
+    .containerTitlePubli{
+        font-style: italic;
+        padding: 0 1vw;
+    }
+    .authorsPubli{
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    #orcidGS{
+        color: rgba(8,40,83,1);
+        font-size: 28px;
+        list-style-type: "➪ ";
+    }
+    #orcidGS a:active{
+        color: rgba(8,40,83,1);
+    }
+    #orcidGS a{
+        text-decoration: none;
+    }
+
+    /*-------------------------------------stylising MAD's code without changing contain : SPAGHETTIS----------------*/
     #slides{
         border-radius: 50px;
     }
@@ -472,10 +528,25 @@
     #mail_p{
         transform: translate(-1.5em, 0.2em);
     }
+    /*---------------------------------------------CENTRAL PART---------------------------------------------*/
+    #central_part{
+        padding: 3vh 5vw;
+        width: calc(90vw - 78px);
+        max-width: calc(90vw - 78px);
+        -webkit-hyphens: auto;
+        -ms-hyphens: auto;
+        hyphens: auto;
+    }
+    #central_part p{
+        text-align: justify;
+    }
+                        /*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\--------TALKS------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
     .titleYear{
         color: white;
+        font-size: 25px;
         background-color: rgb(8, 40, 83);
         padding: 0.5vh 0.5vw;
+        font-weight: normal;
     }
     .year div{
         margin: 4vh 0vw 2vh 50px;
@@ -498,20 +569,9 @@
     .confType{
         font-style: italic;
     }
-    /*---------------------------------------------CENTRAL PART---------------------------------------------*/
-    #central_part{
-        padding: 6vh 10vw;
-        width: 77%;
-        max-width: 77%;
-        -webkit-hyphens: auto;
-        -ms-hyphens: auto;
-        hyphens: auto;
-    }
+                        /*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\--------PROGRAMS------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
     #ordered_pgms{
         text-align: left !important;
-    }
-    #central_part p{
-        text-align: justify;
     }
     .programTable{
         margin-bottom: 4vh;
@@ -536,6 +596,41 @@
     .Publication>.content{
         font-family:serif, 'Times New Roman', Times, serif;
     }
+                        /*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\--------PUBLICATIONS------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+    .tablePublis{
+        /* border: 1px solid #c9cacb;
+        box-shadow: 3px 4px 5px #c9cacb; */
+        width: 100%;
+        max-width: 100%;
+        margin-bottom: 20px;
+    }
+    .titlePubli{
+        font-size: 17px;
+    }
+    #tRow4td{
+        font-size: 14px;
+    }
+    .containerTitlePubli{
+        font-style: italic;
+        padding: 0 1vw;
+    }
+    .authorsPubli{
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+    #orcidGS{
+        color: rgba(8,40,83,1);
+        font-size: 28px;
+        list-style-type: "➪ ";  
+    }
+    #orcidGS a:active{
+        color: rgba(8,40,83,1);
+    }
+    #orcidGS a{
+        text-decoration: none;
+    }
+                        /*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\--------PRESENTATION------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+
     #MAD_titles{
         list-style-type: none;
         padding-left: 0px;
@@ -545,9 +640,7 @@
         color: rgb(18, 98, 204);
         font-size: larger;
     }
-    .italic{
-        font-style: italic;
-    }
+
     #main_scientific_interests{
         line-height: 150%;
         font-size: larger;
@@ -555,6 +648,11 @@
     }
     #main_scientific_interests h1{
         text-align: left;
+        font-size: 25px;
+        background-color: rgb(8, 40, 83);
+        color: white;
+        padding: 0.5vh 0.5vw;
+        font-weight: normal;
     }
     #spaghettis_part{
         display: flex;
@@ -582,27 +680,34 @@
         padding: 0vh 1vw 1vh 0vw;
         border-radius: 50%;
     }
-    .num{
+                        /*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\--------CV------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+    #cv h1{
         color: white;
-        background-color:rgba(8,40,83,1);
-        position: absolute;
-        bottom: 0;
-        margin: 0;
-        z-index: 3;
+        font-size: 25px;
+        background-color: rgb(8, 40, 83);
+        padding: 0.5vh 0.5vw;
+        font-weight: normal;
+    }
+    .partCV{
+        border-collapse: collapse;
+    }
+    .partCV td{
+        border: 1px solid white;
+    }
+    .yearCV{
+        text-align: right;
+        padding: 1vh 2vw 1vh 0vw;
+        min-width: 30%;
+    }
+    .CVEvent{
+        padding: 1vh 0vw 1vh 0vw;
+    }
+                        /*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\--------SPAGHETTIS------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
 
-    }
-    .centered{
-        text-align: center;
-    }
-    /* .gsc_md_hist_w{
-        margin-top: 10vh;
-    } */
-    /* .gsc_g_a{
-        width: 30px !important;
-    } */
-    /*-------------------------------------stylising MAD's code without changing contain----------------*/
+    /*-------------------------------------stylising MAD's code without changing contain : SPAGHETTIS----------------*/
     #slides{
         border-radius: 50px;
+        max-width: 98vw;
     }
     #slides_body>p{
         text-align: center;
@@ -610,13 +715,6 @@
     #slides_body{
         background: radial-gradient(circle, rgba(18,98,204,1) 0%, rgba(18,98,204,1) 47%, rgba(8,40,83,1) 100%);
         display: block;
+        max-width: 100vw;
     }
-
-
-
-
-
-
-
-
 }
