@@ -317,7 +317,7 @@
     .titlePubli{
         font-size: 17px;
     }
-    #tRow4td{
+    .tRow4td{
         font-size: 14px;
     }
     .containerTitlePubli{
@@ -529,6 +529,9 @@
         transform: translate(-1.5em, 0.2em);
     }
     /*---------------------------------------------CENTRAL PART---------------------------------------------*/
+    .table{
+        word-wrap:break-word;
+    }
     #central_part{
         padding: 3vh 5vw;
         width: calc(90vw - 78px);
@@ -607,8 +610,9 @@
     .titlePubli{
         font-size: 17px;
     }
-    #tRow4td{
+    .tRow4td{
         font-size: 14px;
+        word-wrap: anywhere;
     }
     .containerTitlePubli{
         font-style: italic;

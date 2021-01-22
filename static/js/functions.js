@@ -230,9 +230,9 @@ function openParsePublisjson(url, destination){
                 };
             };
             var tRow4 = document.createElement("tr");
-            tRow4.id = "dontcolspan";
+            tRow4.classList.add("dontcolspan");
             var tRow4td = document.createElement("td");
-            tRow4td.id = "tRow4td";
+            tRow4td.classList.add("tRow4td");
             var year = document.createElement("span");
             year.classList.add("yearPubli");
             year.innerHTML = "("+val.issued.dateParts[0][0]+")";
