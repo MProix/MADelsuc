@@ -176,8 +176,8 @@ function openParsePublisjson(url, destination){
                 var dropPar ="";
                 var family ="";
                 var given="";
-                if(v.droppingParticle != undefined){
-                    var dropPar = v.droppingParticle;
+                if(v.dropping_particle != undefined){
+                    var dropPar = v.dropping_particle;
                 }
                 if(v.family != undefined){
                     var family = v.family;
@@ -219,14 +219,14 @@ function openParsePublisjson(url, destination){
             authors.classList.add("authorsPubli");
             authors.innerHTML = listAuth.join(", ");
             authors.colSpan = 3;
-            var containerTitle = document.createElement("span");
-            containerTitle.classList.add("containerTitlePubli");
-            if(val.containerTitle != undefined){
-                containerTitle.innerHTML = val.containerTitle;
+            var container_title = document.createElement("span");
+            container_title.classList.add("container_titlePubli");
+            if(val.container_title != undefined){
+                container_title.innerHTML = val.container_title;
             } else if(val.page != undefined){
-                containerTitle.innerHTML = "pages "+val.page+". ";
+                container_title.innerHTML = "p "+val.page+". ";
                 if(val.publisher != undefined){
-                    containerTitle.innerHTML = containerTitle.innerHTML +"<span class='nonItalic'>"+val.publisher+"</span>";
+                    container_title.innerHTML = container_title.innerHTML +"<span class='nonItalic'>"+val.publisher+"</span>";
                 };
             };
             var tRow4 = document.createElement("tr");
@@ -235,19 +235,37 @@ function openParsePublisjson(url, destination){
             tRow4td.classList.add("tRow4td");
             var year = document.createElement("span");
             year.classList.add("yearPubli");
-            year.innerHTML = "("+val.issued.dateParts[0][0]+")";
-            var doiLink = document.createElement("a");
-            doiLink.classList.add("linkPubli");
-            doiLink.href = val.URL;
-            doiLink.textContent = val.DOI;
+            try {
+                year.innerHTML = "("+val.issued.date_parts[0][0]+")";
+            } catch (error) {
+                console.error(val);
+                // expected output: ReferenceError: nonExistentFunction is not defined
+                // Note - error messages will vary depending on browser
+              }
             var doi = document.createElement("span");
+            var volume = document.createElement("span");
+            var page = document.createElement("span");
+            if(val.DOI != undefined){
+                var doiLink = document.createElement("a");
+                doiLink.classList.add("linkPubli");
+                doiLink.href = val.URL;
+                doiLink.textContent = val.DOI;
+                doi.appendChild(doiLink);
+            } else if(val.volume != undefined){
+                volume.classList.add("bold");
+                volume.textContent = val.volume;
+                if(val.page != undefined){
+                    page.textContent = " p "+val.page+". ";
+                };
+            };
             tRow1.appendChild(title);
             newPubli.appendChild(tRow1);
             tRow2.appendChild(authors);
             newPubli.appendChild(tRow2);
             tRow4td.appendChild(year);
-            tRow4td.appendChild(containerTitle);
-            doi.appendChild(doiLink);
+            tRow4td.appendChild(container_title);
+            tRow4td.appendChild(volume);
+            tRow4td.appendChild(page);
             tRow4td.appendChild(doi);
             tRow4.appendChild(tRow4td);
             newPubli.appendChild(tRow4);
