@@ -45,7 +45,7 @@ $( window ).ready(function() {
     //open and parse CV file to inject html in cv
     openParseCVjson(cv,"cv");
     //open and parse publis json
-    openParsePublisjson("./static/docs/MAD2.bibjson","publis_part");
+    openParsePublisjson("./static/docs/MAD.bibjson","publis_part");
     // get variables from php and inject it to cv.php
     $.getJSON( "variables.php", function( data ) {
         $("#numberOfCitations").html(data.nbCitations);

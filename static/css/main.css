@@ -19,14 +19,6 @@
 .icon{
     font-family: "madfont";
 }
-#publis_header{
-    display: flex;
-    justify-content: space-around;
-    padding-bottom: 6vh;
-}
-#publis_header img{
-    height: 200px;
-}
 .hidden{
     display: none;
 }
@@ -334,6 +326,14 @@
         padding: 1vh 0vw 1vh 0vw;
     }
                         /*\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\--------PUBLICATIONS------\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\*/
+    #publis_header{
+        display: flex;
+        justify-content: space-around;
+        padding-bottom: 6vh;
+    }
+    #publis_header img{
+        height: 200px;
+    }
     .tablePublis{
         /* border: 1px solid #c9cacb;
         box-shadow: 3px 4px 5px #c9cacb; */
@@ -691,6 +691,13 @@
         width: 100%;
         max-width: 100%;
         margin-bottom: 20px;
+    }
+    #publis_header{
+        padding-bottom: 6vh;
+    }
+    #publis_header img{
+        max-height: 200px;
+        max-width: 100%;
     }
     .titlePubli{
         font-size: 17px;

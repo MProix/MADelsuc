@@ -241,7 +241,7 @@ function openParsePublisjson(url, destination){
                 console.error(val);
                 // expected output: ReferenceError: nonExistentFunction is not defined
                 // Note - error messages will vary depending on browser
-              }
+            }
             var doi = document.createElement("span");
             var volume = document.createElement("span");
             var page = document.createElement("span");
